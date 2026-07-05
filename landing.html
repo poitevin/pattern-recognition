@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pattern Recognition - Pedro Poitevin</title>
+  <meta name="description" content="Interactive digital art installation transforming aviation infrastructure into a poetry of exile, memory, and environmental cost through constraint-based systems." />
+  <meta property="og:title" content="Pattern Recognition" />
+  <meta property="og:description" content="A poem of exile and memory written entirely in airport codes—every line encoded in global emissions infrastructure." />
+  <meta property="og:url" content="https://pattern-recognition.netlify.app/" />
+  <meta name="twitter:card" content="summary" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: #fafafa;
+      color: #1a1a1a;
+      line-height: 1.65;
+      font-size: 16px;
+    }
+    
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+    }
+    
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #e5e5e5;
+    }
+    
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      color: #111;
+      line-height: 1.2;
+    }
+    
+    .subtitle {
+      font-size: 1.2rem;
+      color: #666;
+      font-style: italic;
+      margin-bottom: 1rem;
+    }
+    
+    .scale-info {
+      font-size: 1.1rem;
+      color: #d73027;
+      font-weight: 500;
+      background: #fff;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      border-left: 4px solid #d73027;
+      margin: 1.5rem 0;
+    }
+    
+    .main-content {
+      margin-bottom: 3rem;
+    }
+    
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    
+    h2 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: #111;
+      border-bottom: 2px solid #007acc;
+      padding-bottom: 0.25rem;
+      display: inline-block;
+    }
+    
+    p {
+      margin-bottom: 1.2rem;
+      color: #333;
+    }
+    
+    .concept-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      margin: 2rem 0;
+    }
+    
+    .concept-card {
+      background: #fff;
+      padding: 1.5rem;
+      border-radius: 8px;
+      border: 1px solid #e5e5e5;
+    }
+    
+    .concept-card h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+      color: #111;
+    }
+    
+    .concept-card p {
+      font-size: 0.95rem;
+      color: #555;
+      margin-bottom: 0;
+    }
+    
+    .cta-section {
+      text-align: center;
+      background: #fff;
+      padding: 2.5rem;
+      border-radius: 12px;
+      border: 1px solid #e5e5e5;
+      margin: 3rem 0;
+    }
+    
+    .button-primary {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background-color: #007acc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+      margin: 0.5rem;
+    }
+    
+    .button-primary:hover {
+      background-color: #005a99;
+      transform: translateY(-1px);
+    }
+    
+    .button-secondary {
+      display: inline-block;
+      padding: 1rem 2rem;
+      background-color: transparent;
+      color: #007acc;
+      text-decoration: none;
+      border: 2px solid #007acc;
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+      margin: 0.5rem;
+    }
+    
+    .button-secondary:hover {
+      background-color: #007acc;
+      color: #fff;
+    }
+    
+    .exhibition-specs {
+      background: #f8f9fa;
+      padding: 2rem;
+      border-radius: 8px;
+      border-left: 4px solid #28a745;
+    }
+    
+    .exhibition-specs h3 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      color: #111;
+    }
+    
+    .specs-list {
+      list-style: none;
+      padding: 0;
+    }
+    
+    .specs-list li {
+      margin-bottom: 0.5rem;
+      padding-left: 1.5rem;
+      position: relative;
+    }
+    
+    .specs-list li:before {
+      content: "•";
+      color: #28a745;
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+    }
+    
+    .artist-info {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      border: 1px solid #e5e5e5;
+      margin-top: 3rem;
+    }
+    
+    .artist-info h3 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      color: #111;
+    }
+    
+    .contact-links {
+      margin-top: 1rem;
+    }
+    
+    .contact-links a {
+      color: #007acc;
+      text-decoration: none;
+      margin-right: 1.5rem;
+      font-weight: 500;
+    }
+    
+    .contact-links a:hover {
+      text-decoration: underline;
+    }
+    
+    .download-section {
+      text-align: center;
+      margin-top: 2rem;
+      padding-top: 2rem;
+      border-top: 1px solid #e5e5e5;
+    }
+    
+    .download-link {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      background-color: #6c757d;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+    
+    .download-link:hover {
+      background-color: #545b62;
+    }
+    
+    @media (max-width: 768px) {
+      .container {
+        padding: 2rem 1rem;
+      }
+      
+      h1 {
+        font-size: 2rem;
+      }
+      
+      .concept-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+      
+      .cta-section {
+        padding: 1.5rem;
+      }
+      
+      .button-primary,
+      .button-secondary {
+        display: block;
+        margin: 0.5rem 0;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Pattern Recognition</h1>
+      <div class="subtitle">Interactive Digital Art Installation</div>
+      <div class="scale-info">
+        A poem written in airport codes—a 2.09 million–mile flight itinerary across 310 airports, generating roughly 100 million kilograms of CO₂ equivalents
+      </div>
+    </header>
+
+    <div class="main-content">
+      <div class="section">
+        <h2>Concept</h2>
+        <p>
+          This interactive work transforms aviation infrastructure into environmental poetry through a rigorous constraint-based system. Working like magnetic poetry with three-letter airport code tiles, each line is assembled by concatenating IATA codes, then redividing the letter sequence into meaningful words. The poem cannot exist without reactivating the environmental crisis it describes—each line draws on the high-emission infrastructure of global air travel, which produces disproportionate carbon output per passenger mile.
+        </p>
+        
+        <div class="concept-grid">
+          <div class="concept-card">
+            <h3>Formal Innovation</h3>
+            <p>Following traditions of constraint-based poetry (Oulipo) and systems art, the work reveals how our cultural and linguistic systems are inextricably bound to ecological destruction.</p>
+          </div>
+          <div class="concept-card">
+            <h3>Environmental Critique</h3>
+            <p>By embedding climate data within poetic structure, the work transforms abstract emissions into embodied experience where reading becomes complicit in environmental destruction.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Interactive Experience</h2>
+        <p>
+          Visitors first encounter a seemingly traditional climate poem on a touchscreen interface. When they interact with the screen, they discover the hidden flight paths and massive carbon emissions embedded in each line, making visible the environmental cost of our interconnected world.
+        </p>
+      </div>
+
+      <div class="cta-section">
+        <h2>Experience the Work</h2>
+        <p>Explore the full interactive installation and discover how constraint-based poetry becomes environmental critique.</p>
+        <a href="/app/" class="button-primary">Launch Interactive Work</a>
+        <a href="#exhibition" class="button-secondary">Exhibition Information</a>
+      </div>
+
+      <div class="section" id="exhibition">
+        <h2>Exhibition Format</h2>
+        <div class="exhibition-specs">
+          <h3>Technical Requirements</h3>
+          <ul class="specs-list">
+            <li>Large-scale touchscreen installation (32" minimum, vertical orientation preferred)</li>
+            <li>Web-based platform optimized for gallery exhibition</li>
+            <li>Self-contained application requiring minimal technical maintenance</li>
+            <li>Optional: Physical magnetic airport code tiles for visitor participation</li>
+          </ul>
+        </div>
+        
+        <p style="margin-top: 1.5rem;">
+          The digital work can be accompanied by physical magnetic airport code tiles, enabling visitors to engage directly with the constraint-based process and create their own poems within the system's formal limitations.
+        </p>
+      </div>
+
+      <div class="artist-info">
+        <h3>Artist</h3>
+        <p>
+          <strong>Pedro Poitevin</strong> is a bilingual poet and mathematician whose work explores the intersections of constraint, language, and formal systems. Author of six books of poetry, including <em>Nowhere at Home</em> (Penteract Press, 2023), his work bridges traditional forms and avant-garde experimentation. He is a professor of mathematics at Salem State University.
+        </p>
+        
+        <div class="contact-links">
+          <a href="mailto:pedro.poitevin@gmail.com">pedro.poitevin@gmail.com</a>
+          <a href="https://pedropoitevin.com">pedropoitevin.com</a>
+        </div>
+        
+        <div class="download-section">
+          <a href="/downloads/statement.pdf" class="download-link">Download Complete Project Statement (PDF)</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

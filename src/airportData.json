@@ -1,0 +1,2792 @@
+[
+  {
+    "code": "ACH",
+    "name": "St Gallen Altenrhein Airport",
+    "city": "Altenrhein",
+    "country": "CH",
+    "lat": 47.485,
+    "lon": 9.5608,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.485,9.5608&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.485,9.5608&key={API_KEY}"
+  },
+  {
+    "code": "ACK",
+    "name": "Nantucket Memorial Airport",
+    "city": "Nantucket",
+    "country": "US",
+    "lat": 41.2533,
+    "lon": -70.0605,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.2533,-70.0605&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.2533,-70.0605&key={API_KEY}"
+  },
+  {
+    "code": "ACT",
+    "name": "Waco Regional Airport",
+    "city": "Waco",
+    "country": "US",
+    "lat": 31.6122,
+    "lon": -97.2303,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=31.6122,-97.2303&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C31.6122,-97.2303&key={API_KEY}"
+  },
+  {
+    "code": "ADA",
+    "name": "Adana Airport",
+    "city": "Adana",
+    "country": "TR",
+    "lat": 36.9822,
+    "lon": 35.2804,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.9822,35.2804&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.9822,35.2804&key={API_KEY}"
+  },
+  {
+    "code": "AHN",
+    "name": "Athens/Ben Epps Airport",
+    "city": "Athens",
+    "country": "US",
+    "lat": 33.9486,
+    "lon": -83.3259,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.9486,-83.3259&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.9486,-83.3259&key={API_KEY}"
+  },
+  {
+    "code": "AKI",
+    "name": "Akiak Airport",
+    "city": "Akiak",
+    "country": "US",
+    "lat": 60.9029,
+    "lon": -161.2306,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.9029,-161.2306&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.9029,-161.2306&key={API_KEY}"
+  },
+  {
+    "code": "ALL",
+    "name": "Villanova D'Albenga International Airport",
+    "city": "Albenga",
+    "country": "IT",
+    "lat": 44.0506,
+    "lon": 8.1274,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.0506,8.1274&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.0506,8.1274&key={API_KEY}"
+  },
+  {
+    "code": "ALM",
+    "name": "Alamogordo-White Sands Regional Airport",
+    "city": "Alamogordo",
+    "country": "US",
+    "lat": 32.8394,
+    "lon": -105.9911,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.8394,-105.9911&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.8394,-105.9911&key={API_KEY}"
+  },
+  {
+    "code": "ALS",
+    "name": "San Luis Valley Regional/Bergman Field",
+    "city": "Alamosa",
+    "country": "US",
+    "lat": 37.4351,
+    "lon": -105.8679,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.4351,-105.8679&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.4351,-105.8679&key={API_KEY}"
+  },
+  {
+    "code": "AMI",
+    "name": "Selaparang Airport",
+    "city": "Mataram-Lombok Island",
+    "country": "ID",
+    "lat": -8.5607,
+    "lon": 116.095,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-8.5607,116.095&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-8.5607,116.095&key={API_KEY}"
+  },
+  {
+    "code": "AMU",
+    "name": "Amanab Airport",
+    "city": "Amanab",
+    "country": "PG",
+    "lat": -3.586,
+    "lon": 141.2143,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-3.586,141.2143&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-3.586,141.2143&key={API_KEY}"
+  },
+  {
+    "code": "AND",
+    "name": "Anderson Regional Airport",
+    "city": "Anderson",
+    "country": "US",
+    "lat": 34.4946,
+    "lon": -82.7094,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.4946,-82.7094&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.4946,-82.7094&key={API_KEY}"
+  },
+  {
+    "code": "ANF",
+    "name": "Cerro Moreno Airport",
+    "city": "Antofagasta",
+    "country": "CL",
+    "lat": -23.4445,
+    "lon": -70.4451,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-23.4445,-70.4451&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-23.4445,-70.4451&key={API_KEY}"
+  },
+  {
+    "code": "ANI",
+    "name": "Aniak Airport",
+    "city": "Aniak",
+    "country": "US",
+    "lat": 61.5814,
+    "lon": -159.5453,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=61.5814,-159.5453&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C61.5814,-159.5453&key={API_KEY}"
+  },
+  {
+    "code": "ANN",
+    "name": "Annette Island Airport",
+    "city": "Annette",
+    "country": "US",
+    "lat": 55.0423,
+    "lon": -131.5709,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=55.0423,-131.5709&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C55.0423,-131.5709&key={API_KEY}"
+  },
+  {
+    "code": "ANU",
+    "name": "V.C. Bird International Airport",
+    "city": "St. George",
+    "country": "AG",
+    "lat": 17.1367,
+    "lon": -61.7927,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=17.1367,-61.7927&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C17.1367,-61.7927&key={API_KEY}"
+  },
+  {
+    "code": "APL",
+    "name": "Nampula Airport",
+    "city": "Nampula",
+    "country": "MZ",
+    "lat": -15.1056,
+    "lon": 39.2818,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-15.1056,39.2818&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-15.1056,39.2818&key={API_KEY}"
+  },
+  {
+    "code": "ARD",
+    "name": "Mali Airport",
+    "city": "Alor Island",
+    "country": "ID",
+    "lat": -8.1323,
+    "lon": 124.597,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-8.1323,124.597&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-8.1323,124.597&key={API_KEY}"
+  },
+  {
+    "code": "ARN",
+    "name": "Stockholm-Arlanda Airport",
+    "city": "Stockholm",
+    "country": "SE",
+    "lat": 59.6519,
+    "lon": 17.9186,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=59.6519,17.9186&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C59.6519,17.9186&key={API_KEY}"
+  },
+  {
+    "code": "ARS",
+    "name": "Estancia das Cascatas Airport",
+    "city": "Aragarcas",
+    "country": "BR",
+    "lat": -15.8967,
+    "lon": -52.0956,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-15.8967,-52.0956&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-15.8967,-52.0956&key={API_KEY}"
+  },
+  {
+    "code": "ARV",
+    "name": "Lakeland/Noble F Lee Memorial Field",
+    "city": "Minocqua-Woodruff",
+    "country": "US",
+    "lat": 45.9279,
+    "lon": -89.7309,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=45.9279,-89.7309&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C45.9279,-89.7309&key={API_KEY}"
+  },
+  {
+    "code": "ASC",
+    "name": "Ascencion De Guarayos Airport",
+    "city": "Ascension de Guarayos",
+    "country": "BO",
+    "lat": -15.9303,
+    "lon": -63.1567,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-15.9303,-63.1567&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-15.9303,-63.1567&key={API_KEY}"
+  },
+  {
+    "code": "ASE",
+    "name": "Aspen-Pitkin County/Sardy Field",
+    "city": "Aspen",
+    "country": "US",
+    "lat": 39.2219,
+    "lon": -106.8682,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.2219,-106.8682&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.2219,-106.8682&key={API_KEY}"
+  },
+  {
+    "code": "AST",
+    "name": "Astoria Regional Airport",
+    "city": "Astoria",
+    "country": "US",
+    "lat": 46.158,
+    "lon": -123.8786,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=46.158,-123.8786&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C46.158,-123.8786&key={API_KEY}"
+  },
+  {
+    "code": "ATE",
+    "name": "Antlers Municipal Airport",
+    "city": "Antlers",
+    "country": "US",
+    "lat": 34.1936,
+    "lon": -95.6499,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.1936,-95.6499&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.1936,-95.6499&key={API_KEY}"
+  },
+  {
+    "code": "ATH",
+    "name": "Eleftherios Venizelos International Airport",
+    "city": "Athens",
+    "country": "GR",
+    "lat": 37.9364,
+    "lon": 23.9445,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.9364,23.9445&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.9364,23.9445&key={API_KEY}"
+  },
+  {
+    "code": "ATI",
+    "name": "Artigas International Airport",
+    "city": "Artigas",
+    "country": "UY",
+    "lat": -30.4007,
+    "lon": -56.5079,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-30.4007,-56.5079&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-30.4007,-56.5079&key={API_KEY}"
+  },
+  {
+    "code": "AUS",
+    "name": "Austin-Bergstrom International Airport",
+    "city": "Austin",
+    "country": "US",
+    "lat": 30.1945,
+    "lon": -97.6699,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=30.1945,-97.6699&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C30.1945,-97.6699&key={API_KEY}"
+  },
+  {
+    "code": "AWA",
+    "name": "Awassa Airport",
+    "city": "Awassa",
+    "country": "ET",
+    "lat": 7.067,
+    "lon": 38.5,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=7.067,38.5&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C7.067,38.5&key={API_KEY}"
+  },
+  {
+    "code": "BED",
+    "name": "Laurence G Hanscom Field",
+    "city": "Bedford",
+    "country": "US",
+    "lat": 42.4699,
+    "lon": -71.289,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.4699,-71.289&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.4699,-71.289&key={API_KEY}"
+  },
+  {
+    "code": "BEH",
+    "name": "Southwest Michigan Regional Airport",
+    "city": "Benton Harbor",
+    "country": "US",
+    "lat": 42.1284,
+    "lon": -86.4249,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.1284,-86.4249&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.1284,-86.4249&key={API_KEY}"
+  },
+  {
+    "code": "BEL",
+    "name": "Val de Cans/Julio Cezar Ribeiro International Airport",
+    "city": "Belem",
+    "country": "BR",
+    "lat": -1.3793,
+    "lon": -48.4763,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-1.3793,-48.4763&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-1.3793,-48.4763&key={API_KEY}"
+  },
+  {
+    "code": "BER",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "country": "DE",
+    "lat": 52.3622,
+    "lon": 13.5007,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=52.3622,13.5007&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C52.3622,13.5007&key={API_KEY}"
+  },
+  {
+    "code": "BEU",
+    "name": "Bedourie Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -24.3461,
+    "lon": 139.46,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-24.3461,139.46&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-24.3461,139.46&key={API_KEY}"
+  },
+  {
+    "code": "BLE",
+    "name": "Borlange Airport",
+    "city": "",
+    "country": "SE",
+    "lat": 60.422,
+    "lon": 15.5152,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.422,15.5152&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.422,15.5152&key={API_KEY}"
+  },
+  {
+    "code": "BLO",
+    "name": "Hjaltabakki Airport",
+    "city": "Blönduós",
+    "country": "IS",
+    "lat": 65.645,
+    "lon": -20.2875,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=65.645,-20.2875&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C65.645,-20.2875&key={API_KEY}"
+  },
+  {
+    "code": "BSE",
+    "name": "Sematan Airport",
+    "city": "Sematan",
+    "country": "MY",
+    "lat": 1.8136,
+    "lon": 109.763,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=1.8136,109.763&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C1.8136,109.763&key={API_KEY}"
+  },
+  {
+    "code": "BUD",
+    "name": "Budapest Ferenc Liszt International Airport",
+    "city": "Budapest",
+    "country": "HU",
+    "lat": 47.4369,
+    "lon": 19.2556,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.4369,19.2556&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.4369,19.2556&key={API_KEY}"
+  },
+  {
+    "code": "BUL",
+    "name": "Bulolo Airport",
+    "city": "Bulolo",
+    "country": "PG",
+    "lat": -7.2163,
+    "lon": 146.6495,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-7.2163,146.6495&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-7.2163,146.6495&key={API_KEY}"
+  },
+  {
+    "code": "CAB",
+    "name": "Cabinda Airport",
+    "city": "Cabinda",
+    "country": "AO",
+    "lat": -5.597,
+    "lon": 12.1884,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-5.597,12.1884&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-5.597,12.1884&key={API_KEY}"
+  },
+  {
+    "code": "CEH",
+    "name": "Chelinda Malawi Airport",
+    "city": "",
+    "country": "MW",
+    "lat": -10.55,
+    "lon": 33.8,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-10.55,33.8&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-10.55,33.8&key={API_KEY}"
+  },
+  {
+    "code": "CES",
+    "name": "Cessnock Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -32.7875,
+    "lon": 151.342,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-32.7875,151.342&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-32.7875,151.342&key={API_KEY}"
+  },
+  {
+    "code": "CHA",
+    "name": "Lovell Field",
+    "city": "Chattanooga",
+    "country": "US",
+    "lat": 35.0352,
+    "lon": -85.2036,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.0352,-85.2036&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.0352,-85.2036&key={API_KEY}"
+  },
+  {
+    "code": "CIA",
+    "name": "Ciampino Airport",
+    "city": "Roma",
+    "country": "IT",
+    "lat": 41.7994,
+    "lon": 12.5949,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.7994,12.5949&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.7994,12.5949&key={API_KEY}"
+  },
+  {
+    "code": "COG",
+    "name": "Mandinga Airport",
+    "city": "Condoto",
+    "country": "CO",
+    "lat": 5.0833,
+    "lon": -76.7,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=5.0833,-76.7&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C5.0833,-76.7&key={API_KEY}"
+  },
+  {
+    "code": "COL",
+    "name": "Coll Airport",
+    "city": "Coll Island",
+    "country": "GB",
+    "lat": 56.6019,
+    "lon": -6.6178,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=56.6019,-6.6178&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C56.6019,-6.6178&key={API_KEY}"
+  },
+  {
+    "code": "CON",
+    "name": "Concord Municipal Airport",
+    "city": "Concord",
+    "country": "US",
+    "lat": 43.2027,
+    "lon": -71.5023,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.2027,-71.5023&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.2027,-71.5023&key={API_KEY}"
+  },
+  {
+    "code": "COU",
+    "name": "Columbia Regional Airport",
+    "city": "Columbia",
+    "country": "US",
+    "lat": 38.8177,
+    "lon": -92.2178,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=38.8177,-92.2178&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C38.8177,-92.2178&key={API_KEY}"
+  },
+  {
+    "code": "CTU",
+    "name": "Chengdu Shuangliu International Airport",
+    "city": "Chengdu",
+    "country": "CN",
+    "lat": 30.5785,
+    "lon": 103.947,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=30.5785,103.947&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C30.5785,103.947&key={API_KEY}"
+  },
+  {
+    "code": "CUB",
+    "name": "Jim Hamilton L B Owens Airport",
+    "city": "Columbia",
+    "country": "US",
+    "lat": 33.9705,
+    "lon": -80.9952,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.9705,-80.9952&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.9705,-80.9952&key={API_KEY}"
+  },
+  {
+    "code": "CUP",
+    "name": "General Francisco Bermudez Airport",
+    "city": "Carupano",
+    "country": "VE",
+    "lat": 10.66,
+    "lon": -63.2617,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=10.66,-63.2617&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C10.66,-63.2617&key={API_KEY}"
+  },
+  {
+    "code": "DAY",
+    "name": "James M Cox Dayton International Airport",
+    "city": "Dayton",
+    "country": "US",
+    "lat": 39.9023,
+    "lon": -84.2194,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.9023,-84.2194&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.9023,-84.2194&key={API_KEY}"
+  },
+  {
+    "code": "DCA",
+    "name": "Ronald Reagan Washington Ntl Airport",
+    "city": "Washington",
+    "country": "US",
+    "lat": 38.8514,
+    "lon": -77.0377,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=38.8514,-77.0377&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C38.8514,-77.0377&key={API_KEY}"
+  },
+  {
+    "code": "DEN",
+    "name": "Denver International Airport",
+    "city": "Denver",
+    "country": "US",
+    "lat": 39.8617,
+    "lon": -104.6732,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.8617,-104.6732&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.8617,-104.6732&key={API_KEY}"
+  },
+  {
+    "code": "DER",
+    "name": "Derim Airport",
+    "city": "Derim",
+    "country": "PG",
+    "lat": -6.1447,
+    "lon": 147.1072,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-6.1447,147.1072&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-6.1447,147.1072&key={API_KEY}"
+  },
+  {
+    "code": "DGE",
+    "name": "Mudgee Airport",
+    "city": "Mudgee",
+    "country": "AU",
+    "lat": -32.5625,
+    "lon": 149.611,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-32.5625,149.611&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-32.5625,149.611&key={API_KEY}"
+  },
+  {
+    "code": "DIN",
+    "name": "Dien Bien Phu Airport",
+    "city": "Dien Bien Phu",
+    "country": "VN",
+    "lat": 21.3975,
+    "lon": 103.008,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=21.3975,103.008&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C21.3975,103.008&key={API_KEY}"
+  },
+  {
+    "code": "DIS",
+    "name": "Ngot Nzoungou Airport",
+    "city": "Dolisie",
+    "country": "CG",
+    "lat": -4.2063,
+    "lon": 12.6599,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-4.2063,12.6599&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-4.2063,12.6599&key={API_KEY}"
+  },
+  {
+    "code": "DLE",
+    "name": "Dole-Tavaux Airport",
+    "city": "Dole/Tavaux",
+    "country": "FR",
+    "lat": 47.039,
+    "lon": 5.4272,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.039,5.4272&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.039,5.4272&key={API_KEY}"
+  },
+  {
+    "code": "DME",
+    "name": "Domodedovo International Airport",
+    "city": "Moscow",
+    "country": "RU",
+    "lat": 55.4088,
+    "lon": 37.9063,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=55.4088,37.9063&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C55.4088,37.9063&key={API_KEY}"
+  },
+  {
+    "code": "DNO",
+    "name": "Dianopolis Airport",
+    "city": "Dianopolis",
+    "country": "BR",
+    "lat": -11.5954,
+    "lon": -46.8467,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-11.5954,-46.8467&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-11.5954,-46.8467&key={API_KEY}"
+  },
+  {
+    "code": "EAM",
+    "name": "Nejran Airport",
+    "city": "Nejran",
+    "country": "SA",
+    "lat": 17.6114,
+    "lon": 44.4192,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=17.6114,44.4192&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C17.6114,44.4192&key={API_KEY}"
+  },
+  {
+    "code": "EAR",
+    "name": "Kearney Regional Airport",
+    "city": "Kearney",
+    "country": "US",
+    "lat": 40.727,
+    "lon": -99.0068,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=40.727,-99.0068&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C40.727,-99.0068&key={API_KEY}"
+  },
+  {
+    "code": "EAT",
+    "name": "Pangborn Memorial Airport",
+    "city": "Wenatchee",
+    "country": "US",
+    "lat": 47.3988,
+    "lon": -120.2068,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.3988,-120.2068&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.3988,-120.2068&key={API_KEY}"
+  },
+  {
+    "code": "ECA",
+    "name": "Iosco County Airport",
+    "city": "East Tawas",
+    "country": "US",
+    "lat": 44.3128,
+    "lon": -83.4223,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.3128,-83.4223&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.3128,-83.4223&key={API_KEY}"
+  },
+  {
+    "code": "ECH",
+    "name": "Echuca Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -36.1572,
+    "lon": 144.762,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-36.1572,144.762&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-36.1572,144.762&key={API_KEY}"
+  },
+  {
+    "code": "EDE",
+    "name": "Northeastern Regional Airport",
+    "city": "Edenton",
+    "country": "US",
+    "lat": 36.0286,
+    "lon": -76.5698,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.0286,-76.5698&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.0286,-76.5698&key={API_KEY}"
+  },
+  {
+    "code": "EDO",
+    "name": "Balikesir Korfez Airport",
+    "city": "Edremit",
+    "country": "TR",
+    "lat": 39.5546,
+    "lon": 27.0138,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.5546,27.0138&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.5546,27.0138&key={API_KEY}"
+  },
+  {
+    "code": "EGE",
+    "name": "Eagle County Regional Airport",
+    "city": "Eagle",
+    "country": "US",
+    "lat": 39.6427,
+    "lon": -106.9159,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.6427,-106.9159&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.6427,-106.9159&key={API_KEY}"
+  },
+  {
+    "code": "EKI",
+    "name": "Elkhart Municipal Airport",
+    "city": "Elkhart",
+    "country": "US",
+    "lat": 41.7194,
+    "lon": -86.0032,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.7194,-86.0032&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.7194,-86.0032&key={API_KEY}"
+  },
+  {
+    "code": "ELI",
+    "name": "Elim Airport",
+    "city": "Elim",
+    "country": "US",
+    "lat": 64.615,
+    "lon": -162.2705,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=64.615,-162.2705&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C64.615,-162.2705&key={API_KEY}"
+  },
+  {
+    "code": "ELL",
+    "name": "Ellisras Matimba Airport",
+    "city": "Ellisras",
+    "country": "ZA",
+    "lat": -23.7267,
+    "lon": 27.6883,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-23.7267,27.6883&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-23.7267,27.6883&key={API_KEY}"
+  },
+  {
+    "code": "ELS",
+    "name": "Ben Schoeman Airport",
+    "city": "East London",
+    "country": "ZA",
+    "lat": -33.0356,
+    "lon": 27.8259,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-33.0356,27.8259&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-33.0356,27.8259&key={API_KEY}"
+  },
+  {
+    "code": "ENC",
+    "name": "Nancy-Essey Airport",
+    "city": "Nancy/Essey",
+    "country": "FR",
+    "lat": 48.6921,
+    "lon": 6.2305,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=48.6921,6.2305&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C48.6921,6.2305&key={API_KEY}"
+  },
+  {
+    "code": "END",
+    "name": "Vance Afb Airport",
+    "city": "Enid",
+    "country": "US",
+    "lat": 36.3398,
+    "lon": -97.9172,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.3398,-97.9172&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.3398,-97.9172&key={API_KEY}"
+  },
+  {
+    "code": "ENS",
+    "name": "Twenthe Airport",
+    "city": "Enschede",
+    "country": "NL",
+    "lat": 52.27,
+    "lon": 6.8742,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=52.27,6.8742&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C52.27,6.8742&key={API_KEY}"
+  },
+  {
+    "code": "EPA",
+    "name": "El Palomar Airport",
+    "city": "El Palomar",
+    "country": "AR",
+    "lat": -34.6099,
+    "lon": -58.6126,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-34.6099,-58.6126&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-34.6099,-58.6126&key={API_KEY}"
+  },
+  {
+    "code": "ERC",
+    "name": "Erzincan Airport",
+    "city": "Erzincan",
+    "country": "TR",
+    "lat": 39.7102,
+    "lon": 39.527,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.7102,39.527&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.7102,39.527&key={API_KEY}"
+  },
+  {
+    "code": "ERN",
+    "name": "Eirunepe Airport",
+    "city": "Eirunepe",
+    "country": "BR",
+    "lat": -6.6395,
+    "lon": -69.8798,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-6.6395,-69.8798&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-6.6395,-69.8798&key={API_KEY}"
+  },
+  {
+    "code": "ERS",
+    "name": "Eros Airport",
+    "city": "Windhoek",
+    "country": "NA",
+    "lat": -22.6122,
+    "lon": 17.0804,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-22.6122,17.0804&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-22.6122,17.0804&key={API_KEY}"
+  },
+  {
+    "code": "ESS",
+    "name": "Essen Mulheim Airport",
+    "city": "",
+    "country": "DE",
+    "lat": 51.4023,
+    "lon": 6.9373,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.4023,6.9373&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C51.4023,6.9373&key={API_KEY}"
+  },
+  {
+    "code": "EST",
+    "name": "Estherville Municipal Airport",
+    "city": "Estherville",
+    "country": "US",
+    "lat": 43.4075,
+    "lon": -94.7464,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.4075,-94.7464&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.4075,-94.7464&key={API_KEY}"
+  },
+  {
+    "code": "ESW",
+    "name": "Easton State Airport",
+    "city": "Easton",
+    "country": "US",
+    "lat": 47.2542,
+    "lon": -121.1855,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.2542,-121.1855&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.2542,-121.1855&key={API_KEY}"
+  },
+  {
+    "code": "ETH",
+    "name": "Eilat Airport",
+    "city": "Eilat",
+    "country": "IL",
+    "lat": 29.5613,
+    "lon": 34.9601,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=29.5613,34.9601&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C29.5613,34.9601&key={API_KEY}"
+  },
+  {
+    "code": "EVE",
+    "name": "Harstad/Narvik Airport Evenes",
+    "city": "Evenes",
+    "country": "NO",
+    "lat": 68.4913,
+    "lon": 16.6781,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=68.4913,16.6781&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C68.4913,16.6781&key={API_KEY}"
+  },
+  {
+    "code": "EWO",
+    "name": "Ewo Airport",
+    "city": "Ewo",
+    "country": "CG",
+    "lat": -0.883,
+    "lon": 14.8,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-0.883,14.8&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-0.883,14.8&key={API_KEY}"
+  },
+  {
+    "code": "EWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark",
+    "country": "US",
+    "lat": 40.6925,
+    "lon": -74.1687,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=40.6925,-74.1687&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C40.6925,-74.1687&key={API_KEY}"
+  },
+  {
+    "code": "EXT",
+    "name": "Exeter International Airport",
+    "city": "Exeter",
+    "country": "GB",
+    "lat": 50.7344,
+    "lon": -3.4139,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=50.7344,-3.4139&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C50.7344,-3.4139&key={API_KEY}"
+  },
+  {
+    "code": "FAI",
+    "name": "Fairbanks International Airport",
+    "city": "Fairbanks",
+    "country": "US",
+    "lat": 64.8154,
+    "lon": -147.8567,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=64.8154,-147.8567&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C64.8154,-147.8567&key={API_KEY}"
+  },
+  {
+    "code": "FAR",
+    "name": "Hector International Airport",
+    "city": "Fargo",
+    "country": "US",
+    "lat": 46.9206,
+    "lon": -96.8157,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=46.9206,-96.8157&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C46.9206,-96.8157&key={API_KEY}"
+  },
+  {
+    "code": "FFT",
+    "name": "Capital City Airport",
+    "city": "Frankfort",
+    "country": "US",
+    "lat": 38.1817,
+    "lon": -84.9068,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=38.1817,-84.9068&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C38.1817,-84.9068&key={API_KEY}"
+  },
+  {
+    "code": "FOR",
+    "name": "Pinto Martins International Airport",
+    "city": "Fortaleza",
+    "country": "BR",
+    "lat": -3.7763,
+    "lon": -38.5326,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-3.7763,-38.5326&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-3.7763,-38.5326&key={API_KEY}"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt am Main International Airport",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.0264,
+    "lon": 8.5431,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=50.0264,8.5431&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C50.0264,8.5431&key={API_KEY}"
+  },
+  {
+    "code": "FRO",
+    "name": "Florø Airport",
+    "city": "Florø",
+    "country": "NO",
+    "lat": 61.5836,
+    "lon": 5.0247,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=61.5836,5.0247&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C61.5836,5.0247&key={API_KEY}"
+  },
+  {
+    "code": "FSI",
+    "name": "Henry Post Army Air Field (Fort Sill) Airport",
+    "city": "Fort Sill",
+    "country": "US",
+    "lat": 34.6498,
+    "lon": -98.4022,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.6498,-98.4022&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.6498,-98.4022&key={API_KEY}"
+  },
+  {
+    "code": "FTE",
+    "name": "El Calafate Airport",
+    "city": "El Calafate",
+    "country": "AR",
+    "lat": -50.2803,
+    "lon": -72.0531,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-50.2803,-72.0531&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-50.2803,-72.0531&key={API_KEY}"
+  },
+  {
+    "code": "GAI",
+    "name": "Montgomery County Airpark",
+    "city": "Gaithersburg",
+    "country": "US",
+    "lat": 39.1683,
+    "lon": -77.166,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.1683,-77.166&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.1683,-77.166&key={API_KEY}"
+  },
+  {
+    "code": "GAP",
+    "name": "Gusap Airport",
+    "city": "Gusap",
+    "country": "PG",
+    "lat": -6.0532,
+    "lon": 145.959,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-6.0532,145.959&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-6.0532,145.959&key={API_KEY}"
+  },
+  {
+    "code": "GBA",
+    "name": "Kemble Airport",
+    "city": "Kemble",
+    "country": "GB",
+    "lat": 51.6681,
+    "lon": -2.0569,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.6681,-2.0569&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C51.6681,-2.0569&key={API_KEY}"
+  },
+  {
+    "code": "GER",
+    "name": "Rafael Cabrera Airport",
+    "city": "Nueva Gerona",
+    "country": "CU",
+    "lat": 21.8347,
+    "lon": -82.7838,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=21.8347,-82.7838&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C21.8347,-82.7838&key={API_KEY}"
+  },
+  {
+    "code": "GHA",
+    "name": "Noumerat - Moufdi Zakaria Airport",
+    "city": "Ghardaia",
+    "country": "DZ",
+    "lat": 32.3841,
+    "lon": 3.7941,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.3841,3.7941&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.3841,3.7941&key={API_KEY}"
+  },
+  {
+    "code": "GHT",
+    "name": "Ghat Airport",
+    "city": "Ghat",
+    "country": "LY",
+    "lat": 25.1456,
+    "lon": 10.1426,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=25.1456,10.1426&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C25.1456,10.1426&key={API_KEY}"
+  },
+  {
+    "code": "GLA",
+    "name": "Glasgow International Airport",
+    "city": "Glasgow",
+    "country": "GB",
+    "lat": 55.8719,
+    "lon": -4.4331,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=55.8719,-4.4331&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C55.8719,-4.4331&key={API_KEY}"
+  },
+  {
+    "code": "GNI",
+    "name": "Lyudao Airport",
+    "city": "Lyudao",
+    "country": "TW",
+    "lat": 22.6739,
+    "lon": 121.466,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=22.6739,121.466&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C22.6739,121.466&key={API_KEY}"
+  },
+  {
+    "code": "GSS",
+    "name": "Sabi Sabi Airport",
+    "city": "Belfast",
+    "country": "ZA",
+    "lat": -24.9415,
+    "lon": 31.4446,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-24.9415,31.4446&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-24.9415,31.4446&key={API_KEY}"
+  },
+  {
+    "code": "GST",
+    "name": "Gustavus Airport",
+    "city": "Gustavus",
+    "country": "US",
+    "lat": 58.4253,
+    "lon": -135.7074,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=58.4253,-135.7074&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C58.4253,-135.7074&key={API_KEY}"
+  },
+  {
+    "code": "HEL",
+    "name": "Helsinki Vantaa Airport",
+    "city": "Helsinki",
+    "country": "FI",
+    "lat": 60.3172,
+    "lon": 24.9633,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.3172,24.9633&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.3172,24.9633&key={API_KEY}"
+  },
+  {
+    "code": "HER",
+    "name": "Heraklion International Nikos Kazantzakis Airport",
+    "city": "Heraklion",
+    "country": "GR",
+    "lat": 35.3397,
+    "lon": 25.1803,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.3397,25.1803&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.3397,25.1803&key={API_KEY}"
+  },
+  {
+    "code": "HIM",
+    "name": "Minneriya Airport",
+    "city": "Hingurakgoda",
+    "country": "LK",
+    "lat": 8.0498,
+    "lon": 80.9814,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.0498,80.9814&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.0498,80.9814&key={API_KEY}"
+  },
+  {
+    "code": "HMA",
+    "name": "Khanty Mansiysk Airport",
+    "city": "Khanty-Mansiysk",
+    "country": "RU",
+    "lat": 61.0285,
+    "lon": 69.0861,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=61.0285,69.0861&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C61.0285,69.0861&key={API_KEY}"
+  },
+  {
+    "code": "HMI",
+    "name": "Hami Airport",
+    "city": "Hami",
+    "country": "CN",
+    "lat": 42.8414,
+    "lon": 93.6692,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.8414,93.6692&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.8414,93.6692&key={API_KEY}"
+  },
+  {
+    "code": "HMY",
+    "name": "Seosan Air Base",
+    "city": "Seosan",
+    "country": "KR",
+    "lat": 36.704,
+    "lon": 126.486,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.704,126.486&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.704,126.486&key={API_KEY}"
+  },
+  {
+    "code": "HOF",
+    "name": "Al Ahsa Airport",
+    "city": "",
+    "country": "SA",
+    "lat": 25.2853,
+    "lon": 49.4852,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=25.2853,49.4852&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C25.2853,49.4852&key={API_KEY}"
+  },
+  {
+    "code": "HOR",
+    "name": "Horta Airport",
+    "city": "Horta",
+    "country": "PT",
+    "lat": 38.5199,
+    "lon": -28.7159,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=38.5199,-28.7159&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C38.5199,-28.7159&key={API_KEY}"
+  },
+  {
+    "code": "ICK",
+    "name": "Nieuw Nickerie Airport",
+    "city": "Nieuw Nickerie",
+    "country": "SR",
+    "lat": 5.9556,
+    "lon": -57.0394,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=5.9556,-57.0394&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C5.9556,-57.0394&key={API_KEY}"
+  },
+  {
+    "code": "ICT",
+    "name": "Wichita Dwight D Eisenhower Ntl Airport",
+    "city": "Wichita",
+    "country": "US",
+    "lat": 37.65,
+    "lon": -97.433,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.65,-97.433&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.65,-97.433&key={API_KEY}"
+  },
+  {
+    "code": "IDI",
+    "name": "Indiana County/Jimmy Stewart Field",
+    "city": "Indiana",
+    "country": "US",
+    "lat": 40.6311,
+    "lon": -79.1015,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=40.6311,-79.1015&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C40.6311,-79.1015&key={API_KEY}"
+  },
+  {
+    "code": "IES",
+    "name": "Riesa-Gohlis Airport",
+    "city": "Riesa",
+    "country": "DE",
+    "lat": 51.2936,
+    "lon": 13.3561,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.2936,13.3561&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C51.2936,13.3561&key={API_KEY}"
+  },
+  {
+    "code": "IGN",
+    "name": "Iligan Airport",
+    "city": "",
+    "country": "PH",
+    "lat": 8.1305,
+    "lon": 124.215,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.1305,124.215&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.1305,124.215&key={API_KEY}"
+  },
+  {
+    "code": "IHA",
+    "name": "Niijima Airport",
+    "city": "",
+    "country": "JP",
+    "lat": 34.3694,
+    "lon": 139.269,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.3694,139.269&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.3694,139.269&key={API_KEY}"
+  },
+  {
+    "code": "ILD",
+    "name": "Lleida-Alguaire Airport",
+    "city": "Lleida",
+    "country": "ES",
+    "lat": 41.7282,
+    "lon": 0.535,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.7282,0.535&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.7282,0.535&key={API_KEY}"
+  },
+  {
+    "code": "ILE",
+    "name": "Skylark Field",
+    "city": "Killeen",
+    "country": "US",
+    "lat": 31.0858,
+    "lon": -97.6865,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=31.0858,-97.6865&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C31.0858,-97.6865&key={API_KEY}"
+  },
+  {
+    "code": "ILI",
+    "name": "Iliamna Airport",
+    "city": "Iliamna",
+    "country": "US",
+    "lat": 59.7556,
+    "lon": -154.9178,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=59.7556,-154.9178&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C59.7556,-154.9178&key={API_KEY}"
+  },
+  {
+    "code": "ILL",
+    "name": "Willmar Municipal/John L Rice Field",
+    "city": "Willmar",
+    "country": "US",
+    "lat": 45.117,
+    "lon": -95.1293,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=45.117,-95.1293&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C45.117,-95.1293&key={API_KEY}"
+  },
+  {
+    "code": "ILS",
+    "name": "Ilopango International Airport",
+    "city": "San Salvador",
+    "country": "SV",
+    "lat": 13.6995,
+    "lon": -89.1199,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=13.6995,-89.1199&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C13.6995,-89.1199&key={API_KEY}"
+  },
+  {
+    "code": "ILY",
+    "name": "Islay Airport",
+    "city": "Port Ellen",
+    "country": "GB",
+    "lat": 55.6819,
+    "lon": -6.2567,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=55.6819,-6.2567&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C55.6819,-6.2567&key={API_KEY}"
+  },
+  {
+    "code": "INA",
+    "name": "Inta Airport",
+    "city": "Inta",
+    "country": "RU",
+    "lat": 66.0548,
+    "lon": 60.1103,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=66.0548,60.1103&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C66.0548,60.1103&key={API_KEY}"
+  },
+  {
+    "code": "IND",
+    "name": "Indianapolis International Airport",
+    "city": "Indianapolis",
+    "country": "US",
+    "lat": 39.7173,
+    "lon": -86.2946,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=39.7173,-86.2946&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C39.7173,-86.2946&key={API_KEY}"
+  },
+  {
+    "code": "ING",
+    "name": "Lago Argentino Airport",
+    "city": "El Calafate",
+    "country": "AR",
+    "lat": -50.3361,
+    "lon": -72.2486,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-50.3361,-72.2486&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-50.3361,-72.2486&key={API_KEY}"
+  },
+  {
+    "code": "INH",
+    "name": "Inhambane Airport",
+    "city": "Inhambabe",
+    "country": "MZ",
+    "lat": -23.8764,
+    "lon": 35.4085,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-23.8764,35.4085&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-23.8764,35.4085&key={API_KEY}"
+  },
+  {
+    "code": "INI",
+    "name": "Nis Airport",
+    "city": "Nis",
+    "country": "RS",
+    "lat": 43.3373,
+    "lon": 21.8537,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.3373,21.8537&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.3373,21.8537&key={API_KEY}"
+  },
+  {
+    "code": "INM",
+    "name": "Innamincka Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -27.7,
+    "lon": 140.733,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-27.7,140.733&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-27.7,140.733&key={API_KEY}"
+  },
+  {
+    "code": "INT",
+    "name": "Smith Reynolds Airport",
+    "city": "Winston Salem",
+    "country": "US",
+    "lat": 36.1337,
+    "lon": -80.222,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.1337,-80.222&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.1337,-80.222&key={API_KEY}"
+  },
+  {
+    "code": "ION",
+    "name": "Impfondo Airport",
+    "city": "Impfondo",
+    "country": "CG",
+    "lat": 1.617,
+    "lon": 18.067,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=1.617,18.067&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C1.617,18.067&key={API_KEY}"
+  },
+  {
+    "code": "IRE",
+    "name": "Irece Airport",
+    "city": "Irece",
+    "country": "BR",
+    "lat": -11.3399,
+    "lon": -41.847,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-11.3399,-41.847&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-11.3399,-41.847&key={API_KEY}"
+  },
+  {
+    "code": "IRS",
+    "name": "Kirsch Municipal Airport",
+    "city": "Sturgis",
+    "country": "US",
+    "lat": 41.8133,
+    "lon": -85.439,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.8133,-85.439&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.8133,-85.439&key={API_KEY}"
+  },
+  {
+    "code": "IST",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "TR",
+    "lat": 41.2753,
+    "lon": 28.752,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.2753,28.752&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.2753,28.752&key={API_KEY}"
+  },
+  {
+    "code": "ITE",
+    "name": "Itubera Airport",
+    "city": "Itubera",
+    "country": "BR",
+    "lat": -13.7322,
+    "lon": -39.1417,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-13.7322,-39.1417&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-13.7322,-39.1417&key={API_KEY}"
+  },
+  {
+    "code": "IWA",
+    "name": "Ivanovo South Airport",
+    "city": "Ivanovo",
+    "country": "RU",
+    "lat": 56.9394,
+    "lon": 40.9408,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=56.9394,40.9408&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C56.9394,40.9408&key={API_KEY}"
+  },
+  {
+    "code": "IZO",
+    "name": "Izumo Airport",
+    "city": "Izumo",
+    "country": "JP",
+    "lat": 35.4136,
+    "lon": 132.89,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.4136,132.89&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.4136,132.89&key={API_KEY}"
+  },
+  {
+    "code": "JOT",
+    "name": "Joliet Regional Airport",
+    "city": "Joliet",
+    "country": "US",
+    "lat": 41.5177,
+    "lon": -88.1754,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.5177,-88.1754&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.5177,-88.1754&key={API_KEY}"
+  },
+  {
+    "code": "KEC",
+    "name": "Kasenga Airport",
+    "city": "Kasenga",
+    "country": "CD",
+    "lat": -10.35,
+    "lon": 28.633,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-10.35,28.633&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-10.35,28.633&key={API_KEY}"
+  },
+  {
+    "code": "KED",
+    "name": "Kaedi Airport",
+    "city": "Kaedi",
+    "country": "MR",
+    "lat": 16.1595,
+    "lon": -13.5076,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=16.1595,-13.5076&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C16.1595,-13.5076&key={API_KEY}"
+  },
+  {
+    "code": "LAM",
+    "name": "Los Alamos Airport",
+    "city": "Los Alamos",
+    "country": "US",
+    "lat": 35.8797,
+    "lon": -106.2687,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.8797,-106.2687&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.8797,-106.2687&key={API_KEY}"
+  },
+  {
+    "code": "LAN",
+    "name": "Capital Region International Airport",
+    "city": "Lansing",
+    "country": "US",
+    "lat": 42.7786,
+    "lon": -84.5862,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.7786,-84.5862&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.7786,-84.5862&key={API_KEY}"
+  },
+  {
+    "code": "LAZ",
+    "name": "Bom Jesus da Lapa Airport",
+    "city": "Bom Jesus Da Lapa",
+    "country": "BR",
+    "lat": -13.2621,
+    "lon": -43.4081,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-13.2621,-43.4081&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-13.2621,-43.4081&key={API_KEY}"
+  },
+  {
+    "code": "LEC",
+    "name": "Chapada Diamantina Airport",
+    "city": "Lencois",
+    "country": "BR",
+    "lat": -12.4823,
+    "lon": -41.277,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-12.4823,-41.277&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-12.4823,-41.277&key={API_KEY}"
+  },
+  {
+    "code": "LES",
+    "name": "Lesobeng Airport",
+    "city": "Lesobeng",
+    "country": "LS",
+    "lat": -29.7829,
+    "lon": 28.3167,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-29.7829,28.3167&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-29.7829,28.3167&key={API_KEY}"
+  },
+  {
+    "code": "LIN",
+    "name": "Linate Airport",
+    "city": "Milan",
+    "country": "IT",
+    "lat": 45.4451,
+    "lon": 9.2767,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=45.4451,9.2767&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C45.4451,9.2767&key={API_KEY}"
+  },
+  {
+    "code": "LLE",
+    "name": "Riverside Airport",
+    "city": "Malelane",
+    "country": "ZA",
+    "lat": -25.43,
+    "lon": 31.5767,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-25.43,31.5767&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-25.43,31.5767&key={API_KEY}"
+  },
+  {
+    "code": "LLI",
+    "name": "Lalibella Airport",
+    "city": "Lalibela",
+    "country": "ET",
+    "lat": 11.975,
+    "lon": 38.98,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=11.975,38.98&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C11.975,38.98&key={API_KEY}"
+  },
+  {
+    "code": "LOT",
+    "name": "Lewis University Airport",
+    "city": "Chicago/Romeoville",
+    "country": "US",
+    "lat": 41.6081,
+    "lon": -88.0964,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.6081,-88.0964&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.6081,-88.0964&key={API_KEY}"
+  },
+  {
+    "code": "LPA",
+    "name": "Gran Canaria Airport",
+    "city": "Gran Canaria Island",
+    "country": "ES",
+    "lat": 27.9319,
+    "lon": -15.3866,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=27.9319,-15.3866&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C27.9319,-15.3866&key={API_KEY}"
+  },
+  {
+    "code": "LST",
+    "name": "Launceston Airport",
+    "city": "Launceston",
+    "country": "AU",
+    "lat": -41.5453,
+    "lon": 147.214,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-41.5453,147.214&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-41.5453,147.214&key={API_KEY}"
+  },
+  {
+    "code": "MAF",
+    "name": "Midland International Air And Space Port Airport",
+    "city": "Midland",
+    "country": "US",
+    "lat": 31.9425,
+    "lon": -102.2019,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=31.9425,-102.2019&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C31.9425,-102.2019&key={API_KEY}"
+  },
+  {
+    "code": "MAN",
+    "name": "Manchester Airport",
+    "city": "Manchester",
+    "country": "GB",
+    "lat": 53.3537,
+    "lon": -2.275,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=53.3537,-2.275&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C53.3537,-2.275&key={API_KEY}"
+  },
+  {
+    "code": "MAY",
+    "name": "Clarence A. Bain Airport",
+    "city": "Mangrove Cay",
+    "country": "BS",
+    "lat": 24.2877,
+    "lon": -77.6846,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=24.2877,-77.6846&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C24.2877,-77.6846&key={API_KEY}"
+  },
+  {
+    "code": "MBI",
+    "name": "Mbeya Airport",
+    "city": "Mbeya",
+    "country": "TZ",
+    "lat": -8.917,
+    "lon": 33.467,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-8.917,33.467&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-8.917,33.467&key={API_KEY}"
+  },
+  {
+    "code": "MEL",
+    "name": "Melbourne International Airport",
+    "city": "Melbourne",
+    "country": "AU",
+    "lat": -37.6733,
+    "lon": 144.843,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-37.6733,144.843&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-37.6733,144.843&key={API_KEY}"
+  },
+  {
+    "code": "MEM",
+    "name": "Frederick W Smith International Airport",
+    "city": "Memphis",
+    "country": "US",
+    "lat": 35.0424,
+    "lon": -89.9767,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.0424,-89.9767&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.0424,-89.9767&key={API_KEY}"
+  },
+  {
+    "code": "MER",
+    "name": "Castle Airport",
+    "city": "Atwater",
+    "country": "US",
+    "lat": 37.3805,
+    "lon": -120.5682,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.3805,-120.5682&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.3805,-120.5682&key={API_KEY}"
+  },
+  {
+    "code": "MET",
+    "name": "Moreton Airport",
+    "city": "Moreton",
+    "country": "AU",
+    "lat": -12.4442,
+    "lon": 142.638,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-12.4442,142.638&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-12.4442,142.638&key={API_KEY}"
+  },
+  {
+    "code": "MIM",
+    "name": "Merimbula Airport",
+    "city": "Merimbula",
+    "country": "AU",
+    "lat": -36.9086,
+    "lon": 149.901,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-36.9086,149.901&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-36.9086,149.901&key={API_KEY}"
+  },
+  {
+    "code": "MOR",
+    "name": "Moore-Murrell Airport",
+    "city": "Morristown",
+    "country": "US",
+    "lat": 36.1794,
+    "lon": -83.3755,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.1794,-83.3755&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.1794,-83.3755&key={API_KEY}"
+  },
+  {
+    "code": "MPA",
+    "name": "Katima Mulilo Airport",
+    "city": "Mpacha",
+    "country": "NA",
+    "lat": -17.6344,
+    "lon": 24.1767,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-17.6344,24.1767&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-17.6344,24.1767&key={API_KEY}"
+  },
+  {
+    "code": "MYF",
+    "name": "Montgomery-Gibbs Executive Airport",
+    "city": "San Diego",
+    "country": "US",
+    "lat": 32.8157,
+    "lon": -117.1396,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.8157,-117.1396&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.8157,-117.1396&key={API_KEY}"
+  },
+  {
+    "code": "MYL",
+    "name": "Mc Call Municipal Airport",
+    "city": "Mc Call",
+    "country": "US",
+    "lat": 44.8887,
+    "lon": -116.1018,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.8887,-116.1018&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.8887,-116.1018&key={API_KEY}"
+  },
+  {
+    "code": "MYO",
+    "name": "Myroodan Station Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -18.1167,
+    "lon": 124.267,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.1167,124.267&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-18.1167,124.267&key={API_KEY}"
+  },
+  {
+    "code": "NAL",
+    "name": "Nalchik Airport",
+    "city": "Nalchik",
+    "country": "RU",
+    "lat": 43.5129,
+    "lon": 43.6366,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.5129,43.6366&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.5129,43.6366&key={API_KEY}"
+  },
+  {
+    "code": "NCE",
+    "name": "Nice-Cote d'Azur Airport",
+    "city": "Nice",
+    "country": "FR",
+    "lat": 43.6584,
+    "lon": 7.2159,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.6584,7.2159&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.6584,7.2159&key={API_KEY}"
+  },
+  {
+    "code": "NCO",
+    "name": "Quonset State Airport",
+    "city": "North Kingstown",
+    "country": "US",
+    "lat": 41.5974,
+    "lon": -71.4124,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.5974,-71.4124&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.5974,-71.4124&key={API_KEY}"
+  },
+  {
+    "code": "NDA",
+    "name": "Banda Airport Kepulauan",
+    "city": "Banda Island",
+    "country": "ID",
+    "lat": 5.1167,
+    "lon": 97.1167,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=5.1167,97.1167&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C5.1167,97.1167&key={API_KEY}"
+  },
+  {
+    "code": "NDE",
+    "name": "Mandera Airport",
+    "city": "Mandera",
+    "country": "KE",
+    "lat": 3.933,
+    "lon": 41.85,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=3.933,41.85&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C3.933,41.85&key={API_KEY}"
+  },
+  {
+    "code": "NEC",
+    "name": "Necochea Airport",
+    "city": "Necochea",
+    "country": "AR",
+    "lat": -38.4831,
+    "lon": -58.8172,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-38.4831,-58.8172&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-38.4831,-58.8172&key={API_KEY}"
+  },
+  {
+    "code": "NEU",
+    "name": "Nong Khang Airport",
+    "city": "Nong Khang",
+    "country": "LA",
+    "lat": 20.6118,
+    "lon": 104.0682,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=20.6118,104.0682&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C20.6118,104.0682&key={API_KEY}"
+  },
+  {
+    "code": "NGA",
+    "name": "Young Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -34.2556,
+    "lon": 148.248,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-34.2556,148.248&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-34.2556,148.248&key={API_KEY}"
+  },
+  {
+    "code": "NGB",
+    "name": "Ningbo Lishe International Airport",
+    "city": "Ningbo",
+    "country": "CN",
+    "lat": 29.8267,
+    "lon": 121.462,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=29.8267,121.462&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C29.8267,121.462&key={API_KEY}"
+  },
+  {
+    "code": "NGE",
+    "name": "N'Gaoundere Airport",
+    "city": "N'Gaoundere",
+    "country": "CM",
+    "lat": 7.357,
+    "lon": 13.5592,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=7.357,13.5592&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C7.357,13.5592&key={API_KEY}"
+  },
+  {
+    "code": "NGI",
+    "name": "Ngau Airport",
+    "city": "Ngau",
+    "country": "FJ",
+    "lat": -18.1156,
+    "lon": 179.34,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.1156,179.34&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-18.1156,179.34&key={API_KEY}"
+  },
+  {
+    "code": "NGL",
+    "name": "Ngala Airport",
+    "city": "Ngala",
+    "country": "ZA",
+    "lat": -24.3878,
+    "lon": 31.3258,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-24.3878,31.3258&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-24.3878,31.3258&key={API_KEY}"
+  },
+  {
+    "code": "NGO",
+    "name": "Chubu Centrair International Airport",
+    "city": "Tokoname",
+    "country": "JP",
+    "lat": 34.8584,
+    "lon": 136.805,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.8584,136.805&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.8584,136.805&key={API_KEY}"
+  },
+  {
+    "code": "NGS",
+    "name": "Nagasaki Airport",
+    "city": "Nagasaki",
+    "country": "JP",
+    "lat": 32.9169,
+    "lon": 129.914,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.9169,129.914&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.9169,129.914&key={API_KEY}"
+  },
+  {
+    "code": "NIF",
+    "name": "Camp Nifty Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -21.6717,
+    "lon": 121.587,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-21.6717,121.587&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-21.6717,121.587&key={API_KEY}"
+  },
+  {
+    "code": "NIN",
+    "name": "Ninilchik Airport",
+    "city": "Ninilchik",
+    "country": "US",
+    "lat": 60.0202,
+    "lon": -151.5894,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.0202,-151.5894&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.0202,-151.5894&key={API_KEY}"
+  },
+  {
+    "code": "NIS",
+    "name": "Simberi Airport",
+    "city": "Simberi Island",
+    "country": "PG",
+    "lat": -2.6622,
+    "lon": 151.9978,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-2.6622,151.9978&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-2.6622,151.9978&key={API_KEY}"
+  },
+  {
+    "code": "NIT",
+    "name": "Niort-Souche Airport",
+    "city": "Niort/Souche",
+    "country": "FR",
+    "lat": 46.3113,
+    "lon": -0.4015,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=46.3113,-0.4015&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C46.3113,-0.4015&key={API_KEY}"
+  },
+  {
+    "code": "NKS",
+    "name": "Nkongsamba Airport",
+    "city": "Nkongsamba",
+    "country": "CM",
+    "lat": 4.95,
+    "lon": 9.933,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=4.95,9.933&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C4.95,9.933&key={API_KEY}"
+  },
+  {
+    "code": "NLI",
+    "name": "Nikolayevsk-na-Amure Airport",
+    "city": "Nikolayevsk-na-Amure Airport",
+    "country": "RU",
+    "lat": 53.155,
+    "lon": 140.65,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=53.155,140.65&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C53.155,140.65&key={API_KEY}"
+  },
+  {
+    "code": "NNI",
+    "name": "Namutoni Airport",
+    "city": "Namutoni",
+    "country": "NA",
+    "lat": -18.8064,
+    "lon": 16.9272,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.8064,16.9272&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-18.8064,16.9272&key={API_KEY}"
+  },
+  {
+    "code": "NOP",
+    "name": "Sinop Airport",
+    "city": "Sinop",
+    "country": "TR",
+    "lat": 42.0158,
+    "lon": 35.0664,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.0158,35.0664&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.0158,35.0664&key={API_KEY}"
+  },
+  {
+    "code": "NRE",
+    "name": "Namrole Airport",
+    "city": "Namrole-Buru Island",
+    "country": "ID",
+    "lat": -3.8208,
+    "lon": 126.718,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-3.8208,126.718&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-3.8208,126.718&key={API_KEY}"
+  },
+  {
+    "code": "NST",
+    "name": "Nakhon Si Thammarat Airport",
+    "city": "Nakhon Si Thammarat",
+    "country": "TH",
+    "lat": 8.5396,
+    "lon": 99.9447,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.5396,99.9447&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.5396,99.9447&key={API_KEY}"
+  },
+  {
+    "code": "NTI",
+    "name": "Stenkol Airport",
+    "city": "Bintuni-Papua Island",
+    "country": "ID",
+    "lat": -2.1042,
+    "lon": 133.522,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-2.1042,133.522&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-2.1042,133.522&key={API_KEY}"
+  },
+  {
+    "code": "NTO",
+    "name": "Agostinho Neto Airport",
+    "city": "Ponta do Sol",
+    "country": "CV",
+    "lat": 17.2028,
+    "lon": -25.0906,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=17.2028,-25.0906&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C17.2028,-25.0906&key={API_KEY}"
+  },
+  {
+    "code": "NTT",
+    "name": "Kuini Lavenia Airport",
+    "city": "Niuatoputapu",
+    "country": "TO",
+    "lat": -15.9773,
+    "lon": -173.791,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-15.9773,-173.791&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-15.9773,-173.791&key={API_KEY}"
+  },
+  {
+    "code": "OAN",
+    "name": "El Arrayan Airport",
+    "city": "Olanchito",
+    "country": "HN",
+    "lat": 15.5056,
+    "lon": -86.5747,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=15.5056,-86.5747&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C15.5056,-86.5747&key={API_KEY}"
+  },
+  {
+    "code": "OBL",
+    "name": "Oostmalle Air Base",
+    "city": "Zoersel",
+    "country": "BE",
+    "lat": 51.2647,
+    "lon": 4.7533,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.2647,4.7533&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C51.2647,4.7533&key={API_KEY}"
+  },
+  {
+    "code": "OBS",
+    "name": "Aubenas-Ardeche Meridional Airport",
+    "city": "Aubenas/Ardeche Meridional",
+    "country": "FR",
+    "lat": 44.5442,
+    "lon": 4.3722,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.5442,4.3722&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.5442,4.3722&key={API_KEY}"
+  },
+  {
+    "code": "ODR",
+    "name": "Ord River Airport",
+    "city": "Ord River",
+    "country": "AU",
+    "lat": -17.3408,
+    "lon": 128.912,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-17.3408,128.912&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-17.3408,128.912&key={API_KEY}"
+  },
+  {
+    "code": "OFF",
+    "name": "Offutt Afb Airport",
+    "city": "Omaha",
+    "country": "US",
+    "lat": 41.1193,
+    "lon": -95.9085,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.1193,-95.9085&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.1193,-95.9085&key={API_KEY}"
+  },
+  {
+    "code": "OGB",
+    "name": "Orangeburg Municipal Airport",
+    "city": "Orangeburg",
+    "country": "US",
+    "lat": 33.4569,
+    "lon": -80.8594,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.4569,-80.8594&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.4569,-80.8594&key={API_KEY}"
+  },
+  {
+    "code": "OME",
+    "name": "Nome Airport",
+    "city": "Nome",
+    "country": "US",
+    "lat": 64.5126,
+    "lon": -165.4444,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=64.5126,-165.4444&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C64.5126,-165.4444&key={API_KEY}"
+  },
+  {
+    "code": "OMS",
+    "name": "Omsk Central Airport",
+    "city": "Omsk",
+    "country": "RU",
+    "lat": 54.967,
+    "lon": 73.3105,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=54.967,73.3105&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C54.967,73.3105&key={API_KEY}"
+  },
+  {
+    "code": "ONL",
+    "name": "The O'Neill Municipal-John L Baker Field",
+    "city": "O'Neill",
+    "country": "US",
+    "lat": 42.4694,
+    "lon": -98.6878,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.4694,-98.6878&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.4694,-98.6878&key={API_KEY}"
+  },
+  {
+    "code": "ONS",
+    "name": "Onslow Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -21.6683,
+    "lon": 115.113,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-21.6683,115.113&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-21.6683,115.113&key={API_KEY}"
+  },
+  {
+    "code": "OOK",
+    "name": "Toksook Bay Airport",
+    "city": "Toksook Bay",
+    "country": "US",
+    "lat": 60.5413,
+    "lon": -165.0872,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.5413,-165.0872&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.5413,-165.0872&key={API_KEY}"
+  },
+  {
+    "code": "ORD",
+    "name": "Chicago O'Hare International Airport",
+    "city": "Chicago",
+    "country": "US",
+    "lat": 41.9769,
+    "lon": -87.9082,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.9769,-87.9082&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.9769,-87.9082&key={API_KEY}"
+  },
+  {
+    "code": "ORE",
+    "name": "Orleans-Saint-Denis-de-l'Hotel Airport",
+    "city": "Orleans/Saint-Denis-de-l'Hotel",
+    "country": "FR",
+    "lat": 47.8969,
+    "lon": 2.1633,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.8969,2.1633&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.8969,2.1633&key={API_KEY}"
+  },
+  {
+    "code": "ORY",
+    "name": "Paris-Orly Airport",
+    "city": "Paris",
+    "country": "FR",
+    "lat": 48.7253,
+    "lon": 2.3594,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=48.7253,2.3594&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C48.7253,2.3594&key={API_KEY}"
+  },
+  {
+    "code": "OSO",
+    "name": "Osborne Mine Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -22.0817,
+    "lon": 140.555,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-22.0817,140.555&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-22.0817,140.555&key={API_KEY}"
+  },
+  {
+    "code": "OSS",
+    "name": "Osh Airport",
+    "city": "Osh",
+    "country": "KG",
+    "lat": 40.609,
+    "lon": 72.7933,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=40.609,72.7933&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C40.609,72.7933&key={API_KEY}"
+  },
+  {
+    "code": "OTH",
+    "name": "Southwest Oregon Regional Airport",
+    "city": "North Bend",
+    "country": "US",
+    "lat": 43.4169,
+    "lon": -124.247,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.4169,-124.247&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.4169,-124.247&key={API_KEY}"
+  },
+  {
+    "code": "OTR",
+    "name": "Coto 47 Airport",
+    "city": "Corredores",
+    "country": "CR",
+    "lat": 8.6016,
+    "lon": -82.9686,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.6016,-82.9686&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.6016,-82.9686&key={API_KEY}"
+  },
+  {
+    "code": "OUL",
+    "name": "Oulu Airport",
+    "city": "Oulu / Oulunsalo",
+    "country": "FI",
+    "lat": 64.9301,
+    "lon": 25.3546,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=64.9301,25.3546&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C64.9301,25.3546&key={API_KEY}"
+  },
+  {
+    "code": "OUN",
+    "name": "University Of Oklahoma Westheimer Airport",
+    "city": "Norman",
+    "country": "US",
+    "lat": 35.2456,
+    "lon": -97.4721,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.2456,-97.4721&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.2456,-97.4721&key={API_KEY}"
+  },
+  {
+    "code": "OWA",
+    "name": "Owatonna Degner Regional Airport",
+    "city": "Owatonna",
+    "country": "US",
+    "lat": 44.123,
+    "lon": -93.2588,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.123,-93.2588&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.123,-93.2588&key={API_KEY}"
+  },
+  {
+    "code": "PAT",
+    "name": "Lok Nayak Jayaprakash Airport",
+    "city": "Patna",
+    "country": "IN",
+    "lat": 25.5913,
+    "lon": 85.088,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=25.5913,85.088&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C25.5913,85.088&key={API_KEY}"
+  },
+  {
+    "code": "PEL",
+    "name": "Pelaneng Airport",
+    "city": "Pelaneng",
+    "country": "LS",
+    "lat": -29.1206,
+    "lon": 28.5053,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-29.1206,28.5053&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-29.1206,28.5053&key={API_KEY}"
+  },
+  {
+    "code": "PIC",
+    "name": "Pine Cay Airport",
+    "city": "Pine Cay",
+    "country": "TC",
+    "lat": 21.9,
+    "lon": -72.1,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=21.9,-72.1&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C21.9,-72.1&key={API_KEY}"
+  },
+  {
+    "code": "PIE",
+    "name": "St Pete-Clearwater International Airport",
+    "city": "St Petersburg-Clearwater",
+    "country": "US",
+    "lat": 27.9086,
+    "lon": -82.6865,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=27.9086,-82.6865&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C27.9086,-82.6865&key={API_KEY}"
+  },
+  {
+    "code": "PIP",
+    "name": "Pilot Point Airport",
+    "city": "Pilot Point",
+    "country": "US",
+    "lat": 57.5804,
+    "lon": -157.572,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=57.5804,-157.572&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C57.5804,-157.572&key={API_KEY}"
+  },
+  {
+    "code": "PSC",
+    "name": "Tri-Cities Airport",
+    "city": "Pasco",
+    "country": "US",
+    "lat": 46.2649,
+    "lon": -119.1194,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=46.2649,-119.1194&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C46.2649,-119.1194&key={API_KEY}"
+  },
+  {
+    "code": "PSG",
+    "name": "Petersburg James A Johnson Airport",
+    "city": "Petersburg",
+    "country": "US",
+    "lat": 56.8015,
+    "lon": -132.9462,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=56.8015,-132.9462&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C56.8015,-132.9462&key={API_KEY}"
+  },
+  {
+    "code": "PTA",
+    "name": "Port Alsworth Airport",
+    "city": "Port Alsworth",
+    "country": "US",
+    "lat": 60.2043,
+    "lon": -154.3189,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.2043,-154.3189&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.2043,-154.3189&key={API_KEY}"
+  },
+  {
+    "code": "RAC",
+    "name": "Batten International Airport",
+    "city": "Racine",
+    "country": "US",
+    "lat": 42.7612,
+    "lon": -87.8139,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.7612,-87.8139&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.7612,-87.8139&key={API_KEY}"
+  },
+  {
+    "code": "RAZ",
+    "name": "Rawalakot Airport",
+    "city": "Rawalakot",
+    "country": "PK",
+    "lat": 33.8497,
+    "lon": 73.7981,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.8497,73.7981&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.8497,73.7981&key={API_KEY}"
+  },
+  {
+    "code": "RBO",
+    "name": "Robore Airport",
+    "city": "Robore",
+    "country": "BO",
+    "lat": -18.3292,
+    "lon": -59.765,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.3292,-59.765&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-18.3292,-59.765&key={API_KEY}"
+  },
+  {
+    "code": "RCH",
+    "name": "Almirante Padilla Airport",
+    "city": "Riohacha",
+    "country": "CO",
+    "lat": 11.5262,
+    "lon": -72.926,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=11.5262,-72.926&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C11.5262,-72.926&key={API_KEY}"
+  },
+  {
+    "code": "RCO",
+    "name": "Rochefort-Saint-Agnant (BA 721) Airport",
+    "city": "Rochefort/Saint-Agnant",
+    "country": "FR",
+    "lat": 45.8878,
+    "lon": -0.9831,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=45.8878,-0.9831&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C45.8878,-0.9831&key={API_KEY}"
+  },
+  {
+    "code": "RCR",
+    "name": "Fulton County Airport",
+    "city": "Rochester",
+    "country": "US",
+    "lat": 41.0655,
+    "lon": -86.1817,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.0655,-86.1817&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.0655,-86.1817&key={API_KEY}"
+  },
+  {
+    "code": "REA",
+    "name": "Reao Airport",
+    "city": "",
+    "country": "PF",
+    "lat": -18.4659,
+    "lon": -136.44,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-18.4659,-136.44&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-18.4659,-136.44&key={API_KEY}"
+  },
+  {
+    "code": "REC",
+    "name": "Guararapes - Gilberto Freyre International Airport",
+    "city": "Recife",
+    "country": "BR",
+    "lat": -8.1265,
+    "lon": -34.9236,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-8.1265,-34.9236&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-8.1265,-34.9236&key={API_KEY}"
+  },
+  {
+    "code": "REE",
+    "name": "Reese Airpark",
+    "city": "Lubbock",
+    "country": "US",
+    "lat": 33.5948,
+    "lon": -102.0434,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.5948,-102.0434&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.5948,-102.0434&key={API_KEY}"
+  },
+  {
+    "code": "REI",
+    "name": "Regina Airport",
+    "city": "Regina",
+    "country": "GF",
+    "lat": 4.3147,
+    "lon": -52.1317,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=4.3147,-52.1317&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C4.3147,-52.1317&key={API_KEY}"
+  },
+  {
+    "code": "REL",
+    "name": "Almirante Marco Andres Zar Airport",
+    "city": "Rawson",
+    "country": "AR",
+    "lat": -43.2105,
+    "lon": -65.2703,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-43.2105,-65.2703&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-43.2105,-65.2703&key={API_KEY}"
+  },
+  {
+    "code": "RET",
+    "name": "Røst Airport",
+    "city": "",
+    "country": "NO",
+    "lat": 67.5278,
+    "lon": 12.1033,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=67.5278,12.1033&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C67.5278,12.1033&key={API_KEY}"
+  },
+  {
+    "code": "RGR",
+    "name": "Ranger Municipal Airport",
+    "city": "Ranger",
+    "country": "US",
+    "lat": 32.4515,
+    "lon": -98.6815,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.4515,-98.6815&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.4515,-98.6815&key={API_KEY}"
+  },
+  {
+    "code": "RIB",
+    "name": "Capitan Av. Selin Zeitun Lopez Airport",
+    "city": "Riberalta",
+    "country": "BO",
+    "lat": -11.0,
+    "lon": -66.0,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-11.0,-66.0&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-11.0,-66.0&key={API_KEY}"
+  },
+  {
+    "code": "RIM",
+    "name": "San Nicolas Airport",
+    "city": "Rodriguez de Mendoza",
+    "country": "PE",
+    "lat": -6.3923,
+    "lon": -77.5012,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-6.3923,-77.5012&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-6.3923,-77.5012&key={API_KEY}"
+  },
+  {
+    "code": "RIN",
+    "name": "Ringi Cove Airport",
+    "city": "Ringi Cove",
+    "country": "SB",
+    "lat": -8.1264,
+    "lon": 157.143,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-8.1264,157.143&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-8.1264,157.143&key={API_KEY}"
+  },
+  {
+    "code": "RMU",
+    "name": "Región de Murcia International Airport",
+    "city": "Corvera",
+    "country": "ES",
+    "lat": 37.803,
+    "lon": -1.125,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.803,-1.125&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.803,-1.125&key={API_KEY}"
+  },
+  {
+    "code": "RMY",
+    "name": "Mariposa-Yosemite Airport",
+    "city": "Mariposa",
+    "country": "US",
+    "lat": 37.5109,
+    "lon": -120.0395,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=37.5109,-120.0395&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C37.5109,-120.0395&key={API_KEY}"
+  },
+  {
+    "code": "RNI",
+    "name": "Corn Island",
+    "city": "Corn Island",
+    "country": "NI",
+    "lat": 12.1629,
+    "lon": -83.0638,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=12.1629,-83.0638&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C12.1629,-83.0638&key={API_KEY}"
+  },
+  {
+    "code": "ROD",
+    "name": "Robertson Airport",
+    "city": "Robertson",
+    "country": "ZA",
+    "lat": -33.8122,
+    "lon": 19.9028,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-33.8122,19.9028&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-33.8122,19.9028&key={API_KEY}"
+  },
+  {
+    "code": "ROF",
+    "name": "Montague-Yreka Rohrer Field",
+    "city": "Montague",
+    "country": "US",
+    "lat": 41.73,
+    "lon": -122.5445,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.73,-122.5445&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.73,-122.5445&key={API_KEY}"
+  },
+  {
+    "code": "ROR",
+    "name": "Palau International Airport",
+    "city": "Babelthuap Island",
+    "country": "PW",
+    "lat": 7.3673,
+    "lon": 134.5443,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=7.3673,134.5443&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C7.3673,134.5443&key={API_KEY}"
+  },
+  {
+    "code": "SAN",
+    "name": "San Diego International Airport",
+    "city": "San Diego",
+    "country": "US",
+    "lat": 32.7336,
+    "lon": -117.1897,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.7336,-117.1897&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.7336,-117.1897&key={API_KEY}"
+  },
+  {
+    "code": "SAS",
+    "name": "Salton Sea Airport",
+    "city": "Salton City",
+    "country": "US",
+    "lat": 33.2412,
+    "lon": -115.9526,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=33.2412,-115.9526&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C33.2412,-115.9526&key={API_KEY}"
+  },
+  {
+    "code": "SAT",
+    "name": "San Antonio International Airport",
+    "city": "San Antonio",
+    "country": "US",
+    "lat": 29.534,
+    "lon": -98.4691,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=29.534,-98.4691&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C29.534,-98.4691&key={API_KEY}"
+  },
+  {
+    "code": "SBA",
+    "name": "Santa Barbara Municipal Airport",
+    "city": "Santa Barbara",
+    "country": "US",
+    "lat": 34.4262,
+    "lon": -119.8415,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.4262,-119.8415&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.4262,-119.8415&key={API_KEY}"
+  },
+  {
+    "code": "SBL",
+    "name": "Santa Ana Del Yacuma Airport",
+    "city": "Santa Ana del Yacuma",
+    "country": "BO",
+    "lat": -13.7622,
+    "lon": -65.4352,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-13.7622,-65.4352&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-13.7622,-65.4352&key={API_KEY}"
+  },
+  {
+    "code": "SCH",
+    "name": "Schenectady County Airport",
+    "city": "Schenectady",
+    "country": "US",
+    "lat": 42.8527,
+    "lon": -73.9296,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=42.8527,-73.9296&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C42.8527,-73.9296&key={API_KEY}"
+  },
+  {
+    "code": "SCO",
+    "name": "Aktau International Airport",
+    "city": "Aktau",
+    "country": "KZ",
+    "lat": 43.8601,
+    "lon": 51.092,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.8601,51.092&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.8601,51.092&key={API_KEY}"
+  },
+  {
+    "code": "SEA",
+    "name": "Seattle-Tacoma International Airport",
+    "city": "Seattle",
+    "country": "US",
+    "lat": 47.4499,
+    "lon": -122.3118,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=47.4499,-122.3118&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C47.4499,-122.3118&key={API_KEY}"
+  },
+  {
+    "code": "SFJ",
+    "name": "Kangerlussuaq Airport",
+    "city": "Kangerlussuaq",
+    "country": "GL",
+    "lat": 67.0122,
+    "lon": -50.7116,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=67.0122,-50.7116&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C67.0122,-50.7116&key={API_KEY}"
+  },
+  {
+    "code": "SHE",
+    "name": "Taoxian Airport",
+    "city": "Shenyang",
+    "country": "CN",
+    "lat": 41.6398,
+    "lon": 123.483,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=41.6398,123.483&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C41.6398,123.483&key={API_KEY}"
+  },
+  {
+    "code": "SHI",
+    "name": "Shimojishima Airport",
+    "city": "",
+    "country": "JP",
+    "lat": 24.8267,
+    "lon": 125.145,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=24.8267,125.145&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C24.8267,125.145&key={API_KEY}"
+  },
+  {
+    "code": "SIL",
+    "name": "Sila Airport",
+    "city": "Sila Mission",
+    "country": "PG",
+    "lat": -9.0736,
+    "lon": 148.3893,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-9.0736,148.3893&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-9.0736,148.3893&key={API_KEY}"
+  },
+  {
+    "code": "SIN",
+    "name": "Singapore Changi International Airport",
+    "city": "Singapore",
+    "country": "SG",
+    "lat": 1.3502,
+    "lon": 103.994,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=1.3502,103.994&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C1.3502,103.994&key={API_KEY}"
+  },
+  {
+    "code": "SIP",
+    "name": "Simferopol International Airport",
+    "city": "Simferopol",
+    "country": "UA",
+    "lat": 45.0522,
+    "lon": 33.9751,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=45.0522,33.9751&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C45.0522,33.9751&key={API_KEY}"
+  },
+  {
+    "code": "SLE",
+    "name": "Mcnary Field",
+    "city": "Salem",
+    "country": "US",
+    "lat": 44.9095,
+    "lon": -123.0025,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=44.9095,-123.0025&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C44.9095,-123.0025&key={API_KEY}"
+  },
+  {
+    "code": "SLI",
+    "name": "Solwesi Airport",
+    "city": "Solwesi",
+    "country": "ZM",
+    "lat": -12.1737,
+    "lon": 26.3651,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-12.1737,26.3651&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-12.1737,26.3651&key={API_KEY}"
+  },
+  {
+    "code": "SMU",
+    "name": "Sheep Mountain Airport",
+    "city": "Sheep Mountain",
+    "country": "US",
+    "lat": 61.8113,
+    "lon": -147.5091,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=61.8113,-147.5091&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C61.8113,-147.5091&key={API_KEY}"
+  },
+  {
+    "code": "SOM",
+    "name": "San Tome Airport",
+    "city": "",
+    "country": "VE",
+    "lat": 8.9451,
+    "lon": -64.1511,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.9451,-64.1511&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.9451,-64.1511&key={API_KEY}"
+  },
+  {
+    "code": "SPA",
+    "name": "Spartanburg Downtown Memorial/Simpson Field",
+    "city": "Spartanburg",
+    "country": "US",
+    "lat": 34.9164,
+    "lon": -81.9558,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=34.9164,-81.9558&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C34.9164,-81.9558&key={API_KEY}"
+  },
+  {
+    "code": "SSF",
+    "name": "Stinson Municipal Airport",
+    "city": "San Antonio",
+    "country": "US",
+    "lat": 29.337,
+    "lon": -98.471,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=29.337,-98.471&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C29.337,-98.471&key={API_KEY}"
+  },
+  {
+    "code": "SSI",
+    "name": "St Simons Island Airport",
+    "city": "St Simons Island",
+    "country": "US",
+    "lat": 31.152,
+    "lon": -81.3911,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=31.152,-81.3911&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C31.152,-81.3911&key={API_KEY}"
+  },
+  {
+    "code": "STA",
+    "name": "Stauning Airport",
+    "city": "Skjern / Ringkobing",
+    "country": "DK",
+    "lat": 55.9901,
+    "lon": 8.3539,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=55.9901,8.3539&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C55.9901,8.3539&key={API_KEY}"
+  },
+  {
+    "code": "STI",
+    "name": "Cibao International Airport",
+    "city": "Santiago",
+    "country": "DO",
+    "lat": 19.4061,
+    "lon": -70.6047,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=19.4061,-70.6047&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C19.4061,-70.6047&key={API_KEY}"
+  },
+  {
+    "code": "STM",
+    "name": "Maestro Wilson Fonseca Airport",
+    "city": "Santarem",
+    "country": "BR",
+    "lat": -2.4247,
+    "lon": -54.7858,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-2.4247,-54.7858&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-2.4247,-54.7858&key={API_KEY}"
+  },
+  {
+    "code": "TAH",
+    "name": "Tanna Airport",
+    "city": "",
+    "country": "VU",
+    "lat": -19.4551,
+    "lon": 169.224,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-19.4551,169.224&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-19.4551,169.224&key={API_KEY}"
+  },
+  {
+    "code": "TAT",
+    "name": "Poprad-Tatry Airport",
+    "city": "Poprad",
+    "country": "SK",
+    "lat": 49.0736,
+    "lon": 20.2411,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=49.0736,20.2411&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C49.0736,20.2411&key={API_KEY}"
+  },
+  {
+    "code": "TCH",
+    "name": "Tchibanga Airport",
+    "city": "Tchibanga",
+    "country": "GA",
+    "lat": -2.85,
+    "lon": 11.017,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-2.85,11.017&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-2.85,11.017&key={API_KEY}"
+  },
+  {
+    "code": "TEM",
+    "name": "Temora Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -34.4214,
+    "lon": 147.512,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-34.4214,147.512&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-34.4214,147.512&key={API_KEY}"
+  },
+  {
+    "code": "TER",
+    "name": "Lajes Field",
+    "city": "Lajes",
+    "country": "PT",
+    "lat": 38.7618,
+    "lon": -27.0908,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=38.7618,-27.0908&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C38.7618,-27.0908&key={API_KEY}"
+  },
+  {
+    "code": "THA",
+    "name": "Tullahoma Regional/Wm Northern Field",
+    "city": "Tullahoma",
+    "country": "US",
+    "lat": 35.3801,
+    "lon": -86.2468,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=35.3801,-86.2468&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C35.3801,-86.2468&key={API_KEY}"
+  },
+  {
+    "code": "THE",
+    "name": "Senador Petronio Portela Airport",
+    "city": "Teresina",
+    "country": "BR",
+    "lat": -5.0599,
+    "lon": -42.8235,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-5.0599,-42.8235&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-5.0599,-42.8235&key={API_KEY}"
+  },
+  {
+    "code": "THI",
+    "name": "Tichitt Airport",
+    "city": "Tichitt",
+    "country": "MR",
+    "lat": 18.45,
+    "lon": -9.517,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=18.45,-9.517&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C18.45,-9.517&key={API_KEY}"
+  },
+  {
+    "code": "TIN",
+    "name": "Tindouf Airport",
+    "city": "Tindouf",
+    "country": "DZ",
+    "lat": 27.7004,
+    "lon": -8.1671,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=27.7004,-8.1671&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C27.7004,-8.1671&key={API_KEY}"
+  },
+  {
+    "code": "TIO",
+    "name": "Tilin Airport",
+    "city": "Tilin",
+    "country": "MM",
+    "lat": 21.7,
+    "lon": 94.1,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=21.7,94.1&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C21.7,94.1&key={API_KEY}"
+  },
+  {
+    "code": "TOW",
+    "name": "Toledo Airport",
+    "city": "Toledo",
+    "country": "BR",
+    "lat": -24.6863,
+    "lon": -53.6975,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-24.6863,-53.6975&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-24.6863,-53.6975&key={API_KEY}"
+  },
+  {
+    "code": "TRA",
+    "name": "Tarama Airport",
+    "city": "",
+    "country": "JP",
+    "lat": 24.6539,
+    "lon": 124.675,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=24.6539,124.675&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C24.6539,124.675&key={API_KEY}"
+  },
+  {
+    "code": "TRI",
+    "name": "Tri-Cities Airport",
+    "city": "Bristol/Johnson/Kingsport",
+    "country": "US",
+    "lat": 36.4752,
+    "lon": -82.4074,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.4752,-82.4074&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.4752,-82.4074&key={API_KEY}"
+  },
+  {
+    "code": "TRY",
+    "name": "Tororo Airport",
+    "city": "Tororo",
+    "country": "UG",
+    "lat": 0.683,
+    "lon": 34.167,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=0.683,34.167&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C0.683,34.167&key={API_KEY}"
+  },
+  {
+    "code": "TSL",
+    "name": "Tamuin Airport",
+    "city": "",
+    "country": "MX",
+    "lat": 22.0383,
+    "lon": -98.8065,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=22.0383,-98.8065&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C22.0383,-98.8065&key={API_KEY}"
+  },
+  {
+    "code": "TUR",
+    "name": "Tucurui Airport",
+    "city": "Tucurui",
+    "country": "BR",
+    "lat": -3.786,
+    "lon": -49.7203,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-3.786,-49.7203&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-3.786,-49.7203&key={API_KEY}"
+  },
+  {
+    "code": "TWA",
+    "name": "Twin Hills Airport",
+    "city": "Twin Hills",
+    "country": "US",
+    "lat": 59.0745,
+    "lon": -160.275,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=59.0745,-160.275&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C59.0745,-160.275&key={API_KEY}"
+  },
+  {
+    "code": "UAR",
+    "name": "Bouarfa Airport",
+    "city": "Bouarfa",
+    "country": "MA",
+    "lat": 32.5143,
+    "lon": -1.9831,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=32.5143,-1.9831&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C32.5143,-1.9831&key={API_KEY}"
+  },
+  {
+    "code": "UES",
+    "name": "Waukesha County Airport",
+    "city": "Waukesha",
+    "country": "US",
+    "lat": 43.041,
+    "lon": -88.2371,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.041,-88.2371&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.041,-88.2371&key={API_KEY}"
+  },
+  {
+    "code": "ULD",
+    "name": "Prince Mangosuthu Buthelezi Airport",
+    "city": "Ulundi",
+    "country": "ZA",
+    "lat": -28.3206,
+    "lon": 31.4165,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-28.3206,31.4165&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-28.3206,31.4165&key={API_KEY}"
+  },
+  {
+    "code": "UME",
+    "name": "Umea Airport",
+    "city": "Umea",
+    "country": "SE",
+    "lat": 63.7918,
+    "lon": 20.2828,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=63.7918,20.2828&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C63.7918,20.2828&key={API_KEY}"
+  },
+  {
+    "code": "UMS",
+    "name": "Ust-Maya Airport",
+    "city": "Ust-Maya",
+    "country": "RU",
+    "lat": 60.357,
+    "lon": 134.435,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=60.357,134.435&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C60.357,134.435&key={API_KEY}"
+  },
+  {
+    "code": "UND",
+    "name": "Konduz Airport",
+    "city": "",
+    "country": "AF",
+    "lat": 36.6651,
+    "lon": 68.9108,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=36.6651,68.9108&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C36.6651,68.9108&key={API_KEY}"
+  },
+  {
+    "code": "UNK",
+    "name": "Unalakleet Airport",
+    "city": "Unalakleet",
+    "country": "US",
+    "lat": 63.8885,
+    "lon": -160.7991,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=63.8885,-160.7991&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C63.8885,-160.7991&key={API_KEY}"
+  },
+  {
+    "code": "UPL",
+    "name": "Upala Airport",
+    "city": "Upala",
+    "country": "CR",
+    "lat": 10.8922,
+    "lon": -85.0162,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=10.8922,-85.0162&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C10.8922,-85.0162&key={API_KEY}"
+  },
+  {
+    "code": "URE",
+    "name": "Kuressaare Airport",
+    "city": "Kuressaare",
+    "country": "EE",
+    "lat": 58.2299,
+    "lon": 22.5095,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=58.2299,22.5095&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C58.2299,22.5095&key={API_KEY}"
+  },
+  {
+    "code": "URR",
+    "name": "Urrao Airport",
+    "city": "Urrao",
+    "country": "CO",
+    "lat": 6.3288,
+    "lon": -76.1425,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=6.3288,-76.1425&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C6.3288,-76.1425&key={API_KEY}"
+  },
+  {
+    "code": "UTH",
+    "name": "Udon Thani Airport",
+    "city": "Udon Thani",
+    "country": "TH",
+    "lat": 17.3864,
+    "lon": 102.788,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=17.3864,102.788&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C17.3864,102.788&key={API_KEY}"
+  },
+  {
+    "code": "UTO",
+    "name": "Indian Mountain Lrrs Airport",
+    "city": "Utopia Creek",
+    "country": "US",
+    "lat": 65.9928,
+    "lon": -153.7035,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=65.9928,-153.7035&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C65.9928,-153.7035&key={API_KEY}"
+  },
+  {
+    "code": "VER",
+    "name": "General Heriberto Jara International Airport",
+    "city": "Veracruz",
+    "country": "MX",
+    "lat": 19.1459,
+    "lon": -96.1873,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=19.1459,-96.1873&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C19.1459,-96.1873&key={API_KEY}"
+  },
+  {
+    "code": "VOI",
+    "name": "Voinjama Airport",
+    "city": "Voinjama",
+    "country": "LR",
+    "lat": 8.4,
+    "lon": -9.767,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=8.4,-9.767&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C8.4,-9.767&key={API_KEY}"
+  },
+  {
+    "code": "WIN",
+    "name": "Winton Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -22.3636,
+    "lon": 143.086,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-22.3636,143.086&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-22.3636,143.086&key={API_KEY}"
+  },
+  {
+    "code": "WIT",
+    "name": "Wittenoom Airport",
+    "city": "",
+    "country": "AU",
+    "lat": -22.2183,
+    "lon": 118.348,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=-22.2183,118.348&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C-22.2183,118.348&key={API_KEY}"
+  },
+  {
+    "code": "WNS",
+    "name": "Nawabshah Airport",
+    "city": "Nawabash",
+    "country": "PK",
+    "lat": 26.2194,
+    "lon": 68.3901,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=26.2194,68.3901&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C26.2194,68.3901&key={API_KEY}"
+  },
+  {
+    "code": "XIL",
+    "name": "Xilinhot Airport",
+    "city": "Xilinhot",
+    "country": "CN",
+    "lat": 43.9156,
+    "lon": 115.964,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=43.9156,115.964&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C43.9156,115.964&key={API_KEY}"
+  },
+  {
+    "code": "YEI",
+    "name": "Bursa Yenisehir Airport",
+    "city": "Bursa",
+    "country": "TR",
+    "lat": 40.2552,
+    "lon": 29.5626,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=40.2552,29.5626&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C40.2552,29.5626&key={API_KEY}"
+  },
+  {
+    "code": "YHE",
+    "name": "Hope Airport",
+    "city": "Hope",
+    "country": "CA",
+    "lat": 49.3683,
+    "lon": -121.498,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=49.3683,-121.498&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C49.3683,-121.498&key={API_KEY}"
+  },
+  {
+    "code": "YIW",
+    "name": "Yiwu Airport",
+    "city": "Yiwu",
+    "country": "CN",
+    "lat": 29.3447,
+    "lon": 120.032,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=29.3447,120.032&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C29.3447,120.032&key={API_KEY}"
+  },
+  {
+    "code": "YMO",
+    "name": "Moosonee Airport",
+    "city": "Moosonee",
+    "country": "CA",
+    "lat": 51.2911,
+    "lon": -80.6078,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=51.2911,-80.6078&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C51.2911,-80.6078&key={API_KEY}"
+  },
+  {
+    "code": "YST",
+    "name": "St. Theresa Point Airport",
+    "city": "St. Theresa Point",
+    "country": "CA",
+    "lat": 53.8456,
+    "lon": -94.8519,
+    "static_map_url": "https://maps.googleapis.com/maps/api/staticmap?center=53.8456,-94.8519&zoom=6&size=600x400&maptype=roadmap&markers=color:red%7C53.8456,-94.8519&key={API_KEY}"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "line": "0",
+    "itinerary": "PAT-TER-NRE-COG-NIT-ION",
+    "length": "This line is 35,130 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 1,753,338.3 kg CO₂"
+  },
+  {
+    "line": "1",
+    "itinerary": "THE-GLA-SSI-SBL-URR-YST-REA-KED-BEL-OWA-GLA-CIA-LLI-NEU-NCO-ILS",
+    "length": "This line is 60,368 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,012,966.9 kg CO₂"
+  },
+  {
+    "line": "2",
+    "itinerary": "INT-OAN-END-LES-SFJ-ORD-IWA-TCH-APL-UME-ASC-END",
+    "length": "This line is 50,804 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,535,627.6 kg CO₂"
+  },
+  {
+    "line": "3",
+    "itinerary": "FRO-MAF-ACT-ORY-TOW-ARD-THE-TUR-NIN-GNI-MBI",
+    "length": "This line is 56,038 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,796,856.6 kg CO₂"
+  },
+  {
+    "line": "4",
+    "itinerary": "IRE-STM-YHE-ADA-GAI-NST-THE-RIM-AND-PIC-TUR-ETH-ECA-RBO-NLI-NEC-AST-BEH-IND",
+    "length": "This line is 92,618 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,622,564.4 kg CO₂"
+  },
+  {
+    "line": "5",
+    "itinerary": "CHA-RCO-ALM-IST-THI-NNI-NGA-FAI-NTT-RAC-ING-CON-TRA-ILS",
+    "length": "This line is 79,277 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,956,715.1 kg CO₂"
+  },
+  {
+    "line": "6",
+    "itinerary": "FRA-CTU-REI-NTO-ROR-SCH-ACH-BLO-OMS",
+    "length": "This line is 43,731 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,182,614.2 kg CO₂"
+  },
+  {
+    "line": "7",
+    "itinerary": "MYO-WNS-TRA-NGE-SMU-DGE-MYF-ATH-ERS-PIP-EWO-ULD-ALS-ODR-EAM-UPL-OSS",
+    "length": "This line is 112,041 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 5,591,966.3 kg CO₂"
+  },
+  {
+    "line": "8",
+    "itinerary": "DIS-SIP-ATE-SAS-TUR-BUL-ENC-ETH-ICK-ENS-MET-ALL-ICT-AST-ESW-ELL-ING",
+    "length": "This line is 88,677 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,425,869.1 kg CO₂"
+  },
+  {
+    "line": "9",
+    "itinerary": "MEM-ORY-SCO-MPA-SSF-REE-INM-YMO-UTH",
+    "length": "This line is 46,723 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,331,944.9 kg CO₂"
+  },
+  {
+    "line": "10",
+    "itinerary": "BER-LIN-IWA-SBA-REL-YEI-GHT-LAM-PSG-LAZ-ING-THE-STA-IRS",
+    "length": "This line is 55,374 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,763,716.3 kg CO₂"
+  },
+  {
+    "line": "11",
+    "itinerary": "ILE-ARN-EDE-XIL-EST-EXT-URE-COU-NTI-NGS-TAT-ION-SLI-KEC-AND-IES",
+    "length": "This line is 65,782 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,283,179.6 kg CO₂"
+  },
+  {
+    "line": "12",
+    "itinerary": "JOT-TIN-GHA-SHE-SIN-ANU-NDE-RGR-OUN-DLE-DGE-RIB-ELI-EVE-DIN",
+    "length": "This line is 80,299 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,007,723.1 kg CO₂"
+  },
+  {
+    "line": "13",
+    "itinerary": "THE-REC-ORD-ONL-YIW-OUL-DCA-RET-OTR-ACK-SOM-EKI-DCA-LLE-DME-AUS-LAN-DER",
+    "length": "This line is 68,235 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,405,608.8 kg CO₂"
+  },
+  {
+    "line": "14",
+    "itinerary": "AND-EVE-NIF-IHA-DNO-GER-MAN-STI-LLI-ROD-ETH-EGE-OME-TRI-CUB-AHN",
+    "length": "This line is 68,444 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,416,040.0 kg CO₂"
+  },
+  {
+    "line": "15",
+    "itinerary": "COL-LEC-TIN-GST-ATI-ONS-ACH-ILD-SAT-TEM-PTA-TAH-OME",
+    "length": "This line is 72,609 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,623,915.2 kg CO₂"
+  },
+  {
+    "line": "16",
+    "itinerary": "THE-CAB-INH-UMS-AMU-RMU-ROF-VOI-CES-SPA-NIS-HMI-NGL-ING-WIT-HMA-NDA-RIN",
+    "length": "This line is 106,642 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 5,322,502.2 kg CO₂"
+  },
+  {
+    "line": "17",
+    "itinerary": "EAR-BUD-SLE-AKI-NGB-RAZ-ILI-ANF-UNK-FAR-OFF-ANI-CES-HEL-FTE-ARS-CON-DEN-SAT-ION",
+    "length": "This line is 89,017 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,442,838.5 kg CO₂"
+  },
+  {
+    "line": "18",
+    "itinerary": "RIN-GSS-HIM-MER-UND-ERN-EAT-HMY-CUP-MIM-ICK-ING-MEL-TWA-TER",
+    "length": "This line is 98,712 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,926,715.9 kg CO₂"
+  },
+  {
+    "line": "19",
+    "itinerary": "AWA-RNI-NGI-IGN-ORE-IRE-MEM-BER-MYL-AST-OBS-ESS-ION-TEM-PEL-HOF",
+    "length": "This line is 74,675 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,727,029.2 kg CO₂"
+  },
+  {
+    "line": "20",
+    "itinerary": "THE-STA-TIO-NIN-EVE-RCR-OSS-EDO-FFT-HEL-IST-THE-PIE-CEH-IDI-NGO-UTO-FSI-GHT",
+    "length": "This line is 88,149 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,399,516.6 kg CO₂"
+  },
+  {
+    "line": "21",
+    "itinerary": "MAY-BEU-NDE-RMY-BED-MOR-EPA-LPA-BLE-INA-BSE-NCE-THA-NAL-LOT-HER-PIE-CES",
+    "length": "This line is 93,413 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 4,662,242.8 kg CO₂"
+  },
+  {
+    "line": "22",
+    "itinerary": "IST-ILL-SEA-RCH-FOR-AMI-SSI-NGS-IGN",
+    "length": "This line is 43,518 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,171,983.4 kg CO₂"
+  },
+  {
+    "line": "23",
+    "itinerary": "EVE-NTO-DAY-ASE-XIL-EWR-ITE-SAN-OTH-ERC-OUN-TRY-INI-TSL-OGB-OOK",
+    "length": "This line is 69,583 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,472,887.5 kg CO₂"
+  },
+  {
+    "line": "24",
+    "itinerary": "THE-WIN-GBA-NKS-LAZ-ILY-EST-UAR-IES-STI-TCH-SIL-VER",
+    "length": "This line is 70,850 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,536,123.5 kg CO₂"
+  },
+  {
+    "line": "25",
+    "itinerary": "SHI-PSC-ARV-ECH-ANN-ELS-MEM-ORY",
+    "length": "This line is 49,161 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 2,453,625.5 kg CO₂"
+  },
+  {
+    "line": "26",
+    "itinerary": "FAI-LST-OSO-UND-THE-GAP-AND-THE-HOR-IZO-NOP-ENS",
+    "length": "This line is 64,157 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 3,202,075.9 kg CO₂"
+  },
+  {
+    "line": "27",
+    "itinerary": "INT-OBL-UES-ILE-NCE",
+    "length": "This line is 14,640 miles long",
+    "carbon-footprint": "The estimated carbon emissions of this itinerary are 730,682.4 kg CO₂"
+  }
+]
