@@ -1,7 +1,7 @@
 # Pattern Recognition
 
 **Pedro Poitevin**  
-Live Demo → _(Netlify site pending)_
+Live Demo → [pattern-recognition-poem.netlify.app](https://pattern-recognition-poem.netlify.app)
 
 ---
 
@@ -20,7 +20,7 @@ The poem cannot exist without producing the very crisis it describes.
 
 ## Technical Overview
 
-This project is built in **React** (via [Vite](https://vitejs.dev/)) and deploys as a single-page app.
+This project is built in **React** with Create React App and deploys as a single-page app.
 
 ### Features
 - Touch-optimized for vertical screens (ideal for exhibition on tall monitors or tablets)
@@ -28,9 +28,11 @@ This project is built in **React** (via [Vite](https://vitejs.dev/)) and deploys
 - Responsive toggling of linguistic, infrastructural, and environmental data
 
 ### Stack
-- Frontend: React + TypeScript
-- Build: Vite
+- Frontend: React + JavaScript
+- Build: Create React App (`react-scripts`)
 - Deployment: Netlify
+
+The Google Maps API key is stored only in the ignored local `.env` file and as a write-only Netlify secret. The browser requests maps through the server-side `netlify/functions/maps.js` proxy, so the key is never included in the public JavaScript bundle or map URLs.
 
 ---
 
@@ -72,5 +74,4 @@ For curatorial, academic, or collaborative inquiries:
 Professor of Mathematics  
 Salem State University  
 📧 [pedro.poitevin@gmail.com]  
-🌐 _(Netlify site pending)_
-
+🌐 [pattern-recognition-poem.netlify.app](https://pattern-recognition-poem.netlify.app)
