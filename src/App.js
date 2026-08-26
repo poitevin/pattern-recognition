@@ -315,7 +315,7 @@ const App = () => {
                                 >
                                   {code}
                                 </span>
-                                {idx !== line.split("-").length - 1 && "-"}
+                                {idx !== line.split("-").length - 1 && " "}
                               </React.Fragment>
                             ))}
                           </div>
